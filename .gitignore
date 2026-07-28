@@ -8,3 +8,6 @@ output/
 # 系统文件
 .DS_Store
 **/.DS_Store
+
+# 本地工具配置（Claude Code），非项目内容
+.claude/
