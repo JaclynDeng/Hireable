@@ -1,4 +1,6 @@
-# PM Job Search Skills｜职场求职 AI Skill 工具包
+# Hireable
+
+> From JD to Offer｜职场求职 AI 工具包
 
 一套覆盖**完整求职旅程**的 12 个 AI Skill 文件：从职业方向分析、简历搭建、JD 解读、公司与行业研究、主动触达，到 HR 面、经理面、高管终面和薪资谈判。
 
