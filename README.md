@@ -37,18 +37,18 @@ flowchart LR
 
 | Step | 文件 | 一句话说明 | 求职阶段 |
 |------|------|-----------|---------|
-| 01 | `01_career_direction.md` | 职业方向分析：能力盘点 → 方向比较 → Offer 决策（三阶段） | 定方向 |
-| 02 | `02_resume_builder.md` | 基础简历诊断与重建（含排版与终稿生成） | 做简历 |
-| 03 | `03_resume_version.md` | 按岗位大类生成 2-3 个定向投递版本 | 做简历 |
-| 04 | `04_jd_analysis.md` | JD 岗位解读、匹配度评估与面试考察点预测 | 投递 |
-| 05 | `05_company_research.md` | 公司背景研究，转化为面试可用的业务表达 | 面试准备 |
-| 06 | `06_market_research.md` | 行业/细分市场认知，转化为面试可说的市场洞察 | 面试准备 |
-| 07 | `07_referral_outreach.md` | 内推 / 猎头 / HR 三类对象的主动触达与跟进管理 | 投递 |
-| 08 | `08_interview_hr.md` | HR 初面：自我介绍、离职原因、动机、规划与反问 | 面试 |
-| 09 | `09_interview_star_stories.md` | STAR 行为面试故事库（含失败案例与受众适配） | 面试 |
-| 10 | `10_interview_manager.md` | 直属经理（HM）轮的业务能力对话准备 | 面试 |
-| 11 | `11_interview_senior.md` | Director/VP 及以上高管轮面试准备 | 面试 |
-| 12 | `12_salary_negotiation.md` | 薪资结构拆解、期望锚定与 Offer 谈判 | Offer |
+| 01 | [`01_career_direction.md`](skills/01_career_direction.md) | 职业方向分析：能力盘点 → 方向比较 → Offer 决策（三阶段） | 定方向 |
+| 02 | [`02_resume_builder.md`](skills/02_resume_builder.md) | 基础简历诊断与重建（含排版与终稿生成） | 做简历 |
+| 03 | [`03_resume_version.md`](skills/03_resume_version.md) | 按岗位大类生成 2-3 个定向投递版本 | 做简历 |
+| 04 | [`04_jd_analysis.md`](skills/04_jd_analysis.md) | JD 岗位解读、匹配度评估与面试考察点预测 | 投递 |
+| 05 | [`05_company_research.md`](skills/05_company_research.md) | 公司背景研究，转化为面试可用的业务表达 | 面试准备 |
+| 06 | [`06_market_research.md`](skills/06_market_research.md) | 行业/细分市场认知，转化为面试可说的市场洞察 | 面试准备 |
+| 07 | [`07_referral_outreach.md`](skills/07_referral_outreach.md) | 内推 / 猎头 / HR 三类对象的主动触达与跟进管理 | 投递 |
+| 08 | [`08_interview_hr.md`](skills/08_interview_hr.md) | HR 初面：自我介绍、离职原因、动机、规划与反问 | 面试 |
+| 09 | [`09_interview_star_stories.md`](skills/09_interview_star_stories.md) | STAR 行为面试故事库（含失败案例与受众适配） | 面试 |
+| 10 | [`10_interview_manager.md`](skills/10_interview_manager.md) | 直属经理（HM）轮的业务能力对话准备 | 面试 |
+| 11 | [`11_interview_senior.md`](skills/11_interview_senior.md) | Director/VP 及以上高管轮面试准备 | 面试 |
+| 12 | [`12_salary_negotiation.md`](skills/12_salary_negotiation.md) | 薪资结构拆解、期望锚定与 Offer 谈判 | Offer |
 
 
 ### 📌 怎么开始？（快速自测）
