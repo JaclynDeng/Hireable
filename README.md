@@ -97,4 +97,4 @@ flowchart LR
 
 © 2026 JaclynD
 
-本作品采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议发布：您可以自由分享和改编，但须**署名原作者**、**不得用于商业目的**，且改编作品须以**相同协议**发布。
+本作品采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans) 许可协议发布：可自由分享（须完整、未经修改地转载），但须**署名原作者**、**不得用于商业目的**、**不得分发改编后的版本**。你可以为自己使用而修改内容，但不得将修改后的版本公开发布或传播。完整协议见 [LICENSE](LICENSE)。
