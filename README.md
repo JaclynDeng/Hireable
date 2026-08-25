@@ -83,10 +83,11 @@ flowchart LR
 
 仓库根目录的 [`SKILL.md`](SKILL.md) 是技能包入口——装好之后不用再手动找文件、复制粘贴，直接说「帮我看看这份 JD」「准备下周的经理面」，Claude 会自己判断你处在哪一步、读取对应的方法论文件执行。md-to-pdf 也一并装好，可直接联动。
 
-| 环境 | 安装方式 |
-|------|---------|
-| **claude.ai 网页版** | 从 [Releases](../../releases) 下载 `hireable_vX.Y.Z.zip`，在 Skills 里上传安装 |
-| **Claude Code** | `git clone` 本仓库，把整个目录放进 `~/.claude/skills/hireable/` |
+```bash
+git clone https://github.com/JaclynDeng/Hireable.git ~/.claude/skills/hireable
+```
+
+Claude Code 用户克隆到上面这个位置即可直接使用。claude.ai 网页版用户，把克隆下来的 `hireable` 文件夹压缩成 zip，在 Skills 设置里上传安装。
 
 ---
 
@@ -110,7 +111,7 @@ flowchart LR
 | **Claude Code** | ✅ 首次使用可能需要 `pip install markdown weasyprint` |
 | ChatGPT / Gemini 等 | ❌ 无法执行脚本，粘贴文本不会产出 PDF |
 
-**只想要这一个工具、不需要求职方法论？** [Releases](../../releases) 里有单独打包的 `md-to-pdf.skill`。想先看看脚本写了什么，直接在上面的目录里读源码即可——一共三个文件，脚本本身不发任何网络请求，排版全在本地完成。
+**只想要这一个工具、不需要求职方法论？** 单独取走 [`skills/md-to-pdf/`](skills/md-to-pdf/) 这一个文件夹即可，它不依赖其余 12 个文件。想先看看脚本写了什么，直接在目录里读源码——一共三个文件，脚本本身不发任何网络请求，排版全在本地完成。
 
 ---
 

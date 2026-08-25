@@ -24,7 +24,7 @@
 
 - 把任意 Skill 的 Markdown 产出转成 A4 商务风格 PDF：封面页、页眉页脚、中英文混排、表格斑马纹、评分可视化条、结论高亮框
 - 针对 04 / 05 / 06 三类报告内置封面标签与排版预设
-- 源码位于 `skills/md-to-pdf/`，打包好的 `.skill` 见 Releases
+- 源码位于 `skills/md-to-pdf/`，三个文件：`SKILL.md`、`assets/business.css`、`scripts/md_to_pdf.py`
 - ⚠️ 与其余 12 个 Skill 不同，此工具需要**带代码执行环境的 Claude**（claude.ai 网页版或 Claude Code），不适用于 ChatGPT / Gemini
 
 ## v1.0.0 — 2026-06-12
