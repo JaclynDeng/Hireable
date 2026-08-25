@@ -1,16 +1,11 @@
 # Step 02 Resume Builder｜基础简历搭建
 
-> **What**：诊断并重建一份外企/大公司投递可用的基础简历（含 ATS 安全排版与终稿文档）
->
-> **When**：简历写完没信心 / 经历转型需要重新定位 / 多段晋升不知如何呈现
->
-> **前置**：建议先完成 Skill 01（career_direction）明确目标方向
->
-> **你需要准备**：目标岗位方向、当前简历内容或经历要点
->
-> **你会获得**：诊断报告、定位与 Summary 重写、经历 bullets 改写、可直接投递的终稿
->
-> **诚信红线**：本 Skill 只优化真实经历的表达，不编造任何事实或数字；所有数字必须经得起面试追问
+> What：诊断并重建一份外企/大公司投递可用的基础简历（含 ATS 安全排版与终稿文档）
+> When：简历写完没信心 / 经历转型需要重新定位 / 多段晋升不知如何呈现
+> 前置：建议先完成 Skill 01（career_direction）明确目标方向
+> 你需要准备：目标岗位方向、当前简历内容或经历要点
+> 你会获得：诊断报告、定位与 Summary 重写、经历 bullets 改写、可直接投递的终稿
+> 诚信红线：本 Skill 只优化真实经历的表达，不编造任何事实或数字；所有数字必须经得起面试追问
 
 ## 适用场景
 
@@ -271,11 +266,12 @@ Systems & Tools:
 
 ## 输出格式
 
-**本skill采用两阶段交互流程:**
-- **第一阶段(诊断与改写):** 输出模块一至模块四,供使用者逐项确认或提出修改意见
-- **第二阶段(成稿):** 使用者确认全部内容后,执行模块五,生成可直接投递的简历文档
+**本skill采用三阶段交互流程：**
+- **第一阶段（诊断与改写）：** 输出模块一至模块四，供使用者逐项确认或提出修改意见
+- **第二阶段（终稿内容确认）：** 执行模块五，把确认后的简历全文以纯文本形式完整展示，等待使用者明确确认
+- **第三阶段（文件生成）：** 使用者确认后执行模块六，按标准 DOCX 模版生成简历文件
 
-未经使用者确认,不进入模块五,避免基于未定稿内容反复生成文件。
+未经使用者确认，不进入模块六，避免基于未定稿内容反复生成文件。
 
 **模块一：简历诊断报告**
 - 当前简历的3-5个核心问题（按优先级排序）
@@ -295,43 +291,106 @@ Systems & Tools:
 - 同公司多段晋升是否需要合并（如需，提供合并后的格式）
 - 是否需要单页压缩（如需，给出删减优先级清单）
 
-**模块五：终稿文档生成（确认后执行）**
+---
+
+**模块五：终稿内容确认（必须在生成文档前完成）**
 
 触发条件：使用者对模块一至模块四的内容逐项确认（或修改后确认）。
 
 执行步骤：
-1. 汇总确认后的内容，整理为一份**完整的、可直接投递的简历全文**（不是修改建议，而是终稿）
-2. 与使用者确认三个格式参数：
-   - 页数：单页 / 双页
-   - 语言版本：中文 / 英文 / 双语（双语建议生成两份独立文件，不要混排在一份里）
-   - 文件命名中的岗位方向（用于区分不同投递版本）
-3. 生成两种格式的文件：
-   - **`.docx`（可编辑母版）**：用于后续针对不同岗位微调，配合 Skill 03（resume_version）使用
-   - **`.pdf`（投递版本）**：锁定排版，确保HR端显示一致
+1. 将确认后的全部简历内容（中英文）以纯文本/Markdown形式完整展示给使用者，包括：
+   - 姓名与联系方式
+   - 个人简介/Summary（中英文）
+   - 每段工作经历的公司名、岗位名、时间、所有 bullets（中英文）
+   - 技能模块（英文）
+   - 教育背景（中英文）
+2. 明确询问使用者：**「以上内容确认无误后，我将按标准DOCX模版生成简历文件。请确认是否可以生成？」**
+3. **必须等待使用者明确确认（如"可以"、"确认"、"好的"等），才进入模块六。不可在展示内容的同一轮直接生成文件。**
 
-排版规范（ATS-safe，生成文档时必须遵守）：
+---
 
-*页面与字体*
-- 纸张A4，四边页边距1.27cm（0.5 inch），单栏布局
-- 西文字体 Times New Roman（或 Calibri / Arial），中文字体宋体或微软雅黑
-- 正文10.5pt；姓名12–14pt居中加粗；节标题10.5–11pt加粗，下方加一条细横线作为分隔（用段落下边框实现，不要用表格或形状画线）
-- 单倍行距，段后间距0–6pt
+**模块六：DOCX 文件生成（确认后执行）**
 
-*结构与对齐*
-- 姓名与联系方式居中置顶；联系方式只保留：城市、电话、邮箱、LinkedIn（可选）——**不放照片、不写出生日期、不写完整住址**（投递中国本土企业时可按当地惯例保留照片，但默认模板不含）
-- 公司名加粗左对齐，任职日期加粗斜体右对齐——**对齐必须用右制表位（right tab stop）实现，禁止用连续空格顶格**（空格对齐在不同设备上必然错位）
-- 职位名斜体；同公司多段晋升按要点3的Grouped Progression Format排列，各段职位行右侧标注年份
-- Bullet使用Word原生项目符号列表（悬挂缩进约0.25 inch），**不要手动输入"•"字符**（ATS解析与缩进一致性都会出问题）
-- **不使用文本框、表格、页眉页脚承载正文内容**（Workday、SuccessFactors等ATS系统经常无法解析这些区域）
-- 顶部定位行中的全角"｜"在文档中替换为半角"|"，日期格式全篇统一（如 `May 2020 – Feb 2025`）
+触发条件：使用者在模块五中明确确认内容无误。
 
 文件命名规范：
-> 英文简历：`FirstName_LastName_Resume_[岗位方向].pdf`
-> 中文简历：`姓名_简历_[岗位方向].pdf`
+> 中英文双语简历：`[中文姓名][英文名]_[岗位方向]_[目标公司]_YYYYMM.docx`
+> 示例：`张伟Wei_Zhang_Technical_PM_[目标公司缩写]_202608.docx`
+
+**DOCX 模版规范（使用 docx-js / Node.js 生成，必须严格遵守）：**
+
+*页面设置*
+- 纸张 A4，四边页边距 0.8 inch（convertInchesToTwip(0.8) = 1152 DXA）
+- 文本区域宽度 = 9602 DXA（11906 - 1152×2）
+- 双语简历使用两个独立 section（不使用 PageBreak），中文为第一个 section，英文为第二个 section
+
+*字体与字号*
+- 中文字体：等线（或微软雅黑）
+- 英文字体：Calibri
+- 姓名：14pt (size: 28) 加粗
+- 正文/Bullets：10pt (size: 20)
+- 个人信息行：9pt (size: 18)
+- 节标题：11pt (size: 22) 加粗
+
+*节标题*
+- 加粗，下方加段落下边框（BorderStyle.SINGLE, size: 6）作为分隔线
+- 段前 spacing.before: 120，段后 spacing.after: 80
+
+*公司行格式*
+```
+公司名（加粗，左对齐）          [TAB →]          任职时间（加粗，右对齐）
+```
+- 使用 tabStops: [{ type: TabStopType.RIGHT, position: 9602 }] 实现右对齐
+- 段前 spacing.before: 120，段后 spacing.after: 40
+- **禁止使用连续空格对齐**
+
+*岗位行格式*
+```
+    岗位名称（加粗+斜体，左缩进）     [TAB →]     任职时间（斜体，右对齐）
+```
+- 左缩进：indent: { left: 240 }（约 0.17 inch）
+- 使用 tabStops: [{ type: TabStopType.RIGHT, position: 9602 }] 实现右对齐
+- 段前 spacing.before: 40，段后 spacing.after: 40
+
+*Bullet 格式*
+- 使用手动 "•  " 前缀 + 悬挂缩进实现（indent: { left: convertInchesToTwip(0.25), hanging: convertInchesToTwip(0.25) }）
+- 段前 spacing.before: 20，段后 spacing.after: 20
+- 需要体现先后顺序的段落（如分阶段项目叙述）使用编号格式（"1.  ", "2.  " 等）+ 悬挂缩进（indent: { left: convertInchesToTwip(0.3), hanging: convertInchesToTwip(0.3) }）
+
+*教育背景表格*
+- 三栏无边框表格（BorderStyle.NONE）
+- 列宽：学校名 3200 DXA | 专业名 3800 DXA | 时间 2600 DXA
+- 时间列右对齐（AlignmentType.RIGHT）
+- 学校名加粗
+- 表格总宽 9600 DXA
+
+*技能模块（仅英文 section）*
+- 每个技能类别：类别名加粗作为小标题
+- 技能项使用 bullet 格式，用 " | " 分隔关键词
+
+*内容层面的 ATS 与隐私注意事项（与上方排版规范并行遵守）*
+- 单栏布局；**不使用文本框、页眉页脚承载正文内容**（Workday、SuccessFactors 等 ATS 系统经常无法解析这些区域），表格仅用于教育背景一栏
+- 联系方式只保留：城市、电话、邮箱、LinkedIn（可选）——**不放照片、不写出生日期、不写完整住址、不写身份证号**（投递中国本土企业时可按当地惯例保留照片，但默认模板不含）
+- 顶部定位行中的全角"｜"在文档中替换为半角"|"，日期格式全篇统一（如 `May 2020 – Feb 2025`）
+
+*文件生成后验证*
+生成 .docx 后，必须执行以下验证：
+```bash
+python scripts/office/soffice.py --headless --convert-to pdf output.docx
+pdftoppm -jpeg -r 150 output.pdf page
+# 逐页查看渲染结果，确认排版正确
+```
+
+验证要点：
+- 公司名与时间是否左右分列对齐
+- 岗位名是否斜体且有缩进
+- 教育背景表格是否三栏整齐
+- 中英文是否分页（无空白页）
+- 整体页数是否合理（中文1页 + 英文1-2页）
 
 工具适配说明（保持AI工具无关性）：
-- **支持文件生成的AI环境**（如 Claude、ChatGPT 等）：直接生成 .docx 与 .pdf 两份文件供下载
-- **不支持文件生成的环境**：输出排版完成的完整简历文本（markdown或纯文本），并附一份"Word手动排版要点"（字体、字号、页边距、分节方式），由使用者粘贴成稿后另存为PDF
+- **支持文件生成的AI环境**（如 Claude、ChatGPT 等）：按上述模版直接生成 .docx，并可另存一份 .pdf 作为投递版本
+- **不支持文件生成的环境**：输出排版完成的完整简历文本（markdown或纯文本），并附一份"Word手动排版要点"（字体、字号、页边距、制表位、分节方式），由使用者粘贴成稿后另存为PDF
 
 ---
 
@@ -406,7 +465,7 @@ Cover Letter中补充：此段经历是在[某跨国工业设备企业]后主动
 
 **【确认后进入模块五】**
 
-> 以上四个模块的内容如确认无误，请回复"确认"。我将整理为完整终稿，与你确认页数、语言版本和文件命名后，生成一份 .docx（可编辑母版）和一份 .pdf（投递版本）。如所在AI工具不支持文件生成，我会输出排版完成的全文及Word手动排版要点。
+> 以上四个模块的内容如确认无误，请回复"确认"。我会先把整合后的简历全文（中英文）完整展示给你核对（模块五），你再次确认后，我才会按标准 DOCX 模版生成文件（模块六）。如所在AI工具不支持文件生成，我会输出排版完成的全文及Word手动排版要点。
 
 ---
 
@@ -423,3 +482,132 @@ Cover Letter中补充：此段经历是在[某跨国工业设备企业]后主动
 篇幅要求（单页/双页，选填）：
 ```
 
+---
+
+## 附录：DOCX 模版代码参考（生成时可直接复用）
+
+```javascript
+const {
+  Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell,
+  WidthType, AlignmentType, BorderStyle, TabStopType, convertInchesToTwip
+} = require("docx");
+
+const FONT_CN = "等线";
+const FONT_EN = "Calibri";
+const SIZE_NAME = 28;   // 14pt
+const SIZE_NORMAL = 20; // 10pt
+const SIZE_SMALL = 18;  // 9pt
+const RIGHT_TAB = 9602; // A4 text width in DXA
+
+function textRun(text, opts = {}) {
+  return new TextRun({
+    text,
+    font: opts.font || FONT_CN,
+    size: opts.size || SIZE_NORMAL,
+    bold: opts.bold || false,
+    italics: opts.italics || false,
+  });
+}
+
+function sectionTitle(text) {
+  return new Paragraph({
+    spacing: { before: 120, after: 80 },
+    children: [textRun(text, { bold: true, size: 22 })],
+    border: { bottom: { style: BorderStyle.SINGLE, size: 6, color: "000000" } }
+  });
+}
+
+function companyLine(company, dates, font) {
+  return new Paragraph({
+    spacing: { before: 120, after: 40 },
+    tabStops: [{ type: TabStopType.RIGHT, position: RIGHT_TAB }],
+    children: [
+      textRun(company, { bold: true, font: font || FONT_CN }),
+      new TextRun({ text: "\t", font: font || FONT_CN, size: SIZE_NORMAL }),
+      textRun(dates, { bold: true, font: font || FONT_CN }),
+    ],
+  });
+}
+
+function roleLine(role, dates, font) {
+  return new Paragraph({
+    spacing: { before: 40, after: 40 },
+    indent: { left: 240 },
+    tabStops: [{ type: TabStopType.RIGHT, position: RIGHT_TAB }],
+    children: [
+      textRun(role, { bold: true, italics: true, font: font || FONT_CN }),
+      new TextRun({ text: "\t", font: font || FONT_CN, size: SIZE_NORMAL }),
+      textRun(dates, { italics: true, font: font || FONT_CN }),
+    ],
+  });
+}
+
+function bulletPoint(text, font) {
+  return new Paragraph({
+    spacing: { before: 20, after: 20 },
+    indent: { left: convertInchesToTwip(0.25), hanging: convertInchesToTwip(0.25) },
+    children: [
+      textRun("•  ", { font: font || FONT_CN }),
+      textRun(text, { font: font || FONT_CN }),
+    ],
+  });
+}
+
+// 教育背景表格（三栏无边框）
+function educationTable(rows, font) {
+  const noBorder = { style: BorderStyle.NONE, size: 0 };
+  const cw = [3200, 3800, 2600];
+  function eduCell(text, opts = {}) {
+    return new TableCell({
+      width: { size: opts.width, type: WidthType.DXA },
+      borders: { top: noBorder, bottom: noBorder, left: noBorder, right: noBorder },
+      children: [
+        new Paragraph({
+          alignment: opts.align || AlignmentType.LEFT,
+          children: [textRun(text, {
+            bold: opts.bold || false,
+            italics: opts.italics || false,
+            font: font || FONT_CN,
+          })],
+        }),
+      ],
+    });
+  }
+  return new Table({
+    width: { size: 9600, type: WidthType.DXA },
+    columnWidths: cw,
+    rows: rows.map(row => new TableRow({
+      children: [
+        eduCell(row.school, { bold: true, width: cw[0] }),
+        eduCell(row.degree, { width: cw[1] }),
+        eduCell(row.dates, { width: cw[2], align: AlignmentType.RIGHT, italics: row.datesItalic }),
+      ],
+    })),
+  });
+}
+
+// Document 结构：两个 section（中文 + 英文）
+const pageMargins = {
+  top: convertInchesToTwip(0.8),
+  right: convertInchesToTwip(0.8),
+  bottom: convertInchesToTwip(0.8),
+  left: convertInchesToTwip(0.8),
+};
+
+const doc = new Document({
+  sections: [
+    {
+      properties: { page: { margin: pageMargins } },
+      children: [
+        // === 中文 section 的所有 Paragraph 元素 ===
+      ],
+    },
+    {
+      properties: { page: { margin: pageMargins } },
+      children: [
+        // === 英文 section 的所有 Paragraph 元素 ===
+      ],
+    },
+  ],
+});
+```

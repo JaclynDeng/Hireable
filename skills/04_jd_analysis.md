@@ -26,7 +26,7 @@
 **与其他Skill的边界：**
 - 本Skill：解读JD、分析匹配度、识别差距、评估职业价值
 - Skill 03（resume_version）：根据JD分析结果，调整简历语言和关键词密度
-- Skill 05（company_research）：深入了解目标公司的业务、文化和竞争格局
+- Skill 06（company_research）：深入了解目标公司的业务、文化和竞争格局
 
 ---
 

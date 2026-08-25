@@ -11,3 +11,7 @@ output/
 
 # 本地工具配置（Claude Code），非项目内容
 .claude/
+
+# Python 运行产物（md-to-pdf 脚本）
+__pycache__/
+*.pyc

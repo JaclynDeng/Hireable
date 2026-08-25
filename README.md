@@ -3,7 +3,9 @@
 > From JD to Offer｜职场求职 AI 工具包
 
 这是一套覆盖**完整求职旅程**的 12 个 AI Skill 文件：
-从*找工作前期*的职业方向分析、简历搭建、岗位JD 解读、公司与行业研究准备、跟进HR/猎头/内推，*找工作中期* HR 面、经理面、高管终面，再到*最终的*薪资谈判。
+从*找工作前期*的职业方向分析、简历搭建、岗位JD 解读、行业与公司研究准备、跟进HR/猎头/内推，*找工作中期* HR 面、经理面、高管终面，再到*最终的*薪资谈判。
+
+另附一个 [md-to-pdf 工具](#md-to-pdf)，把上面任意 Skill 的产出一键排版成可以直接发出去的 PDF。
 
 **❓怎么用**：每个文件都是一个独立可用的"Skill"——复制全文粘贴给任意 AI 工具（Claude / ChatGPT / Gemini 等），再填写文末的空白输入模板，即可获得结构化的、可直接使用的求职输出。
 
@@ -26,10 +28,10 @@ flowchart LR
   S01[01 职业方向] --> S02[02 基础简历] --> S03[03 定向版本]
   S03 --> S04[04 JD分析]
   S04 --> S07[07 主动触达]
-  S04 --> S05[05 公司研究]
-  S04 --> S06[06 行业研究]
-  S05 --> S08[08 HR面] --> S09[09 STAR故事] --> S10[10 经理面] --> S11[11 高管面] --> S12[12 谈薪]
-  S06 --> S10
+  S04 --> S06[06 公司研究]
+  S05[05 行业与市场] --> S06
+  S06 --> S08[08 HR面] --> S09[09 STAR故事] --> S10[10 经理面] --> S11[11 高管面] --> S12[12 谈薪]
+  S05 --> S10
   S12 -.多Offer决策.-> S01
 ```
 
@@ -41,8 +43,8 @@ flowchart LR
 | 02 | [`02_resume_builder.md`](skills/02_resume_builder.md) | 基础简历诊断与重建（含排版与终稿生成） | 做简历 |
 | 03 | [`03_resume_version.md`](skills/03_resume_version.md) | 按岗位大类生成 2-3 个定向投递版本 | 做简历 |
 | 04 | [`04_jd_analysis.md`](skills/04_jd_analysis.md) | JD 岗位解读、匹配度评估与面试考察点预测 | 投递 |
-| 05 | [`05_company_research.md`](skills/05_company_research.md) | 公司背景研究，转化为面试可用的业务表达 | 面试准备 |
-| 06 | [`06_market_research.md`](skills/06_market_research.md) | 行业/细分市场认知，转化为面试可说的市场洞察 | 面试准备 |
+| 05 | [`05_industry_market_research.md`](skills/05_industry_market_research.md) | 行业与市场分析：产业链、市场规模与竞争格局，转化为面试可说的市场洞察 | 面试准备 |
+| 06 | [`06_company_research.md`](skills/06_company_research.md) | 公司背景研究，转化为面试可用的业务表达 | 面试准备 |
 | 07 | [`07_referral_outreach.md`](skills/07_referral_outreach.md) | 内推 / 猎头 / HR 三类对象的主动触达与跟进管理 | 投递 |
 | 08 | [`08_interview_hr.md`](skills/08_interview_hr.md) | HR 初面：自我介绍、离职原因、动机、规划与反问 | 面试 |
 | 09 | [`09_interview_star_stories.md`](skills/09_interview_star_stories.md) | STAR 行为面试故事库（含失败案例与受众适配） | 面试 |
@@ -56,7 +58,7 @@ flowchart LR
 - 还不确定要找什么方向 → **从 01 开始**
 - 方向明确，简历还没着落或没信心 → **02 → 03**
 - 简历就绪，看到心动的 JD → **04，然后用 07 提高曝光**
-- 拿到面试邀约 → **05 + 06 做功课，按轮次进 08 / 09 / 10 / 11**
+- 拿到面试邀约 → **先 05 建立行业认知，再 06 聚焦这家公司，然后按轮次进 08 / 09 / 10 / 11**
 - 被问薪资或拿到 Offer → **12**；多个 Offer 纠结选哪个 → **01 的阶段三**
 
 ---
@@ -76,6 +78,30 @@ flowchart LR
 | **ChatGPT** | 直接粘贴使用；高频使用可将文件设为自定义 GPT 的 Instructions |
 | **Gemini** | 直接粘贴使用；可配合 Gem 功能保存 |
 | 其他工具 | 只要支持长文本输入即可，文件均为纯 Markdown |
+
+---
+
+<a id="md-to-pdf"></a>
+
+## 📄 附加工具：md-to-pdf（把报告导出成 PDF）
+
+上面 12 个 Skill 的产出都是 Markdown。如果你想把它变成一份**可以直接发给 HR、猎头、面试官**的 PDF——有封面页、页眉页脚、中英文混排、表格斑马纹、评分可视化条——用这个。
+
+> 📂 [`skills/md-to-pdf/`](skills/md-to-pdf/)　·　完整用法见 [`SKILL.md`](skills/md-to-pdf/SKILL.md)
+
+**为什么需要它**：不是每个人电脑上都装了 Markdown 阅读器，但 PDF 谁都能打开。导出成 PDF 也意味着文件可以下载保存、反复查看，不必每次回到对话里翻记录。
+
+**它和其他 Skill 怎么联动**：04（JD 分析）、05（行业与市场）、06（公司研究）这三类报告有专门的封面标签和排版预设，生成完直接说「转成 PDF」即可。
+
+**⚠️ 这一个不适用上面的「工具无关」规则。** 它不是纯提示词，而是要真正执行 Python 脚本，所以需要**带代码执行环境的 Claude**：
+
+| 环境 | 支持情况 |
+|------|---------|
+| **claude.ai 网页版** | ✅ 上传 `.skill` 安装即可，云端环境已预装依赖 |
+| **Claude Code** | ✅ 把 `md-to-pdf/` 放进 `~/.claude/skills/` |
+| ChatGPT / Gemini 等 | ❌ 无法执行脚本，粘贴文本不会产出 PDF |
+
+**安装**：网页版用户建议从 [Releases](../../releases) 下载打包好的 `.skill` 文件，上传安装。想先看看脚本写了什么，直接在上面的目录里读源码即可。
 
 ---
 
