@@ -8,7 +8,7 @@
 >
 > **你需要准备**：核心工作经历、目标岗位类型、JD 要求的能力维度
 >
-> **你会获得**：STAR 故事库（含 90 秒口语版）、题型→故事映射表
+> **你会获得**：STAR 故事库（含 90 秒口语版，中英双语、先中文后英文）、题型→故事映射表
 >
 > **诚信红线**：故事必须来自真实经历，本 Skill 只优化表达角度，不编造事实或数字
 
@@ -39,7 +39,7 @@
 **必填：**
 - 候选人核心工作经历（每段工作的岗位/公司/主要职责）
 - 目标岗位类型（PM / Marketing / GTM / 产品商业化等）
-- 面试语言：中文 / 英文 / 中英混合
+- 面试语言偏好（默认中英双语、先中文后英文；如只需单一语言请注明）
 
 **选填（提供后质量显著提升）：**
 - JD 中明确要求的能力维度（如「cross-functional collaboration」「data-driven」「launch experience」）
@@ -64,7 +64,8 @@
 
 - 必填输入缺失时，先逐项提问收集，不要假设或编造
 - 按输出格式的模块顺序输出，每次只完成当前阶段
-- 输出语言跟随使用者输入的语言
+- 分析框架与说明性文字用中文；**每个故事的 90 秒口语版一律输出中英双语，顺序固定为先中文、后英文**
+- 英文版不是中文的逐字直译，而是符合英语面试语感的地道表达（第一人称动词、句子更短、结果前置）
 - 涉及市场数据/薪资区间时，标注来源类型与不确定性，并提醒使用者自行验证
 
 ---
@@ -237,7 +238,8 @@ R - Result（结果）：1-2句话。量化数字 + 业务影响
   3. [行动3]
 - R（结果）：[量化 + 业务意义]
 - 迁移性表达：[1句话，连接目标岗位]
-- 90秒口语版：[可直接在面试中说的中文/英文版本]
+- 90秒口语版（中文）：[可直接在面试中说的中文版本]
+- 90-Second Spoken Version (English)：[the English version, not a literal translation]
 
 ---
 
@@ -258,7 +260,7 @@ R - Result（结果）：1-2句话。量化数字 + 业务影响
 
 ```
 目标岗位：APAC Product Manager（[某跨国工业科技企业]防护材料事业部）
-面试语言：中英文
+面试语言：中英双语（先中文后英文）
 需要准备的故事类型：最有成就感 + 失败案例 + 数据驱动
 候选人背景：5年[某跨国工业设备企业]产品管理经历，主要成就包括：
   - 全球首发新产品在中国首次上市（获年度创新奖）
@@ -270,7 +272,7 @@ R - Result（结果）：1-2句话。量化数字 + 业务影响
 
 ---
 
-> 注：以下口语版仅各展示一种语言；实际使用时按「面试语言」输入生成中英双语版本。
+> 注：每个故事的口语版都给出中英双语，先中文后英文；面试中按现场语言选用其中一版即可。
 
 **【故事1：全球首发新品上市】**
 - 能力标签：商业化/0-1上市/跨部门协作/不确定性管理
@@ -290,6 +292,13 @@ R - Result（结果）：1-2句话。量化数字 + 业务影响
 >
 > 最终产品成功按计划上市，当年约 €XM 收入，客户第二年追加了新产线订单，项目获得了公司大中华区年度创新奖。」
 
+**90-Second Spoken Version (English):**
+> "The project I'm proudest of was leading the China commercialization of a globally first-of-its-kind product at [a multinational industrial equipment company]. What made it unusual is that it wasn't a routine launch — new capacity, new machine platform, new application category, and a pure e-commerce customer model. There was no best practice to follow on any of those four dimensions.
+>
+> During commercial trial production, technical issues surfaced that earlier testing hadn't caught. I split them into what we could solve locally and what needed R&D support from headquarters, identified the decision maker for each critical issue, and ran six teams in parallel — global product, European R&D, supply chain, local sales, technical service and the customer's own R&D.
+>
+> The product launched on schedule, delivered around €XM in revenue in the first year, and the customer ordered an additional line the following year. The project won the company's Greater China Innovation Award of the year."
+
 ---
 
 **【故事2：失败案例 — Stakeholder Alignment 失败型】**
@@ -303,7 +312,14 @@ R - Result（结果）：1-2句话。量化数字 + 业务影响
   2. 在关键节点提前做 decision alignment，不等问题暴露后才协调
   3. 加入定期 risk review，让潜在分歧更早暴露
 
-**90秒口语版（英文）：**
+**90秒口语版（中文）：**
+> 「有一个让我学到很多的经历，是我负责的一个包装产品组合优化项目。当时要协调销售、市场和供应链几个团队，因为时间紧，我默认大家对项目目标和优先级是一致的，前期没有做明确的跨部门对齐。
+>
+> 推进到中期我才发现，销售担心 SKU 调整会影响客户关系，供应链则更关注降低生产复杂度——两边的优先级并不一致，项目明显被拖慢了。
+>
+> 根因不在方案本身，而在于我一开始没有把各团队的成功标准和决策优先级对齐。之后我做的每一个跨部门项目，都会在立项阶段就明确每个职能眼里的『成功』是什么，在每个关键节点内置一次决策对齐，并定期做风险回顾。这个改变对后续项目的推进效率有明显帮助。」
+
+**90-Second Spoken Version (English):**
 > "One experience I learned a lot from was during a packaging portfolio optimization project. We were coordinating across sales, marketing and supply chain teams, and due to timeline pressure, I assumed everyone was aligned on the project's goals and priorities without doing explicit stakeholder alignment upfront.
 >
 > Midway through, I realized sales was worried about customer relationship impact from SKU changes, while supply chain prioritized complexity reduction. These misalignments slowed us down significantly.
@@ -329,6 +345,13 @@ R - Result（结果）：1-2句话。量化数字 + 业务影响
 >
 > 结果是常规分析从半天缩短到约 10 分钟，管理层可以直接看关键指标，不再等人工汇报。这是中国区首次实现 100% 的销售数据可视化。」
 
+**90-Second Spoken Version (English):**
+> "I built the first Power BI sales dashboard for our China organization. Before that, analysis was slow: the global system's data was too coarse and had no China-specific classification, and the local data sat across several systems. A single analysis took half a day.
+>
+> I didn't start by building. I first made a pivot-table prototype in Excel and let the product managers use it for three months, then set the feature priorities based on how they actually used it. From there I used Power Query to connect five SAP data sources — volume, cost, customer hierarchy, product classification and equipment — into a dynamic model that supported slicing across dimensions.
+>
+> Routine analysis went from half a day to about ten minutes, and leadership could look at the key metrics directly instead of waiting for a manual report. It was the first time the China organization had 100% visibility on sales data."
+
 ---
 
 **【题型映射表】**
@@ -349,7 +372,7 @@ R - Result（结果）：1-2句话。量化数字 + 业务影响
 ```
 核心工作经历（每段：岗位/公司类型/主要职责）：
 目标岗位类型（PM / Marketing / GTM / 其他）：
-面试语言（中文 / 英文 / 中英混合）：
+面试语言（默认中英双语输出；如只需单一语言请注明）：
 JD要求的能力维度（选填）：
 已有的故事草稿或项目描述（选填）：
 面试官背景（选填）：

@@ -8,7 +8,7 @@
 >
 > **你需要准备**：目标岗位与公司、HM 背景、JD 核心能力要求
 >
-> **你会获得**：五类核心能力的面试表达、向 HM 的高质量反问、高频问题应对表
+> **你会获得**：五类核心能力的面试表达、向 HM 的高质量反问、高频问题应对表——面试表达全部中英双语，先中文后英文
 
 ## 适用场景
 
@@ -33,7 +33,7 @@
 **必填：**
 - 目标岗位名称 + 目标公司（或行业描述）
 - HM 背景（如已知：职位/负责领域/调动背景）
-- 面试语言：中文 / 英文 / 中英混合
+- 面试语言偏好（默认中英双语、先中文后英文；如只需单一语言请注明）
 
 **选填（提供后质量显著提升）：**
 - JD 中明确要求的核心能力（帮助确定哪些框架最需要准备）
@@ -55,7 +55,8 @@
 
 - 必填输入缺失时，先逐项提问收集，不要假设或编造
 - 按输出格式的模块顺序输出，每次只完成当前阶段
-- 输出语言跟随使用者输入的语言
+- 分析框架与说明性文字用中文；**所有可直接在面试中使用的表达（业务模型、组合管理、客户洞察、全球-本地、销售协作、反问）一律输出中英双语，顺序固定为先中文、后英文**
+- 英文版不是中文的逐字直译，而是符合英语面试语感的地道表达（观点前置、句子更短、少用形容词）
 - 涉及市场数据/薪资区间时，标注来源类型与不确定性，并提醒使用者自行验证
 
 ---
@@ -104,7 +105,9 @@
 - 技术/执行可行性（内外部资源约束）
 - 战略契合度（是否符合公司方向）
 
-**面试语言：** 「我管理产品组合的方式是同时用三个视角看：生命周期告诉我什么在增长什么在衰退；市场视角告诉我哪些细分最有价值；业务视角告诉我收入和利润结构是否健康。三个视角同时看，才能做出有依据的取舍决策。」
+**面试语言（中文）：** 「我管理产品组合的方式是同时用三个视角看：生命周期告诉我什么在增长什么在衰退；市场视角告诉我哪些细分最有价值；业务视角告诉我收入和利润结构是否健康。三个视角同时看，才能做出有依据的取舍决策。」
+
+**Interview language (English):** "I manage a portfolio through three lenses at once. Lifecycle tells me what's growing and what's declining. The market lens tells me which segments carry the most value. The business lens tells me whether the revenue and margin structure is healthy. You need all three at the same time to make a trade-off you can actually defend."
 
 ---
 
@@ -121,7 +124,9 @@
 
 **「翻译」的重要性：** 客户说「太贵了」不等于「降价」——背后可能是「价值沟通不到位」「产品不对应用场景」「没有ROI量化工具」。产品经理的工作是找到根因，而不是直接响应表面反馈。
 
-**面试语言：** 「我把客户需求看作输入而不是终点。真正的产品管理工作是把碎片化的反馈翻译成可执行的业务行动——有时候是调整产品组合，有时候是重新定义价值主张，有时候是更新销售培训。反馈本身不创造价值，只有翻译成行动才创造。」
+**面试语言（中文）：** 「我把客户需求看作输入而不是终点。真正的产品管理工作是把碎片化的反馈翻译成可执行的业务行动——有时候是调整产品组合，有时候是重新定义价值主张，有时候是更新销售培训。反馈本身不创造价值，只有翻译成行动才创造。」
+
+**Interview language (English):** "I treat customer needs as an input, not an endpoint. The real product management work is translating fragmented feedback into an executable business action — sometimes that's adjusting the portfolio, sometimes redefining the value proposition, sometimes updating sales training. Feedback on its own creates no value; only the translation into action does."
 
 ---
 
@@ -135,7 +140,9 @@
 3. **找到折中方案（不是妥协，是阶段性最优解）** — 「现阶段」做到 X，「路径上」仍然指向全球要求的方向
 4. **用数据建立共识** — 给总部提供本地市场证据（消费者调研 / 销售反馈 / 价格模拟），让数据替你谈判
 
-**面试语言：** 「遇到全球战略与本地市场冲突时，我会先弄清楚总部战略背后的核心意图是什么——通常意图是对的，但实施路径需要本地化。然后用数据提供本地市场证据，提出一个既能在当前市场落地、又在路径上符合全球方向的方案。我的经验是，总部通常愿意接受有数据支撑的本地建议。」
+**面试语言（中文）：** 「遇到全球战略与本地市场冲突时，我会先弄清楚总部战略背后的核心意图是什么——通常意图是对的，但实施路径需要本地化。然后用数据提供本地市场证据，提出一个既能在当前市场落地、又在路径上符合全球方向的方案。我的经验是，总部通常愿意接受有数据支撑的本地建议。」
+
+**Interview language (English):** "When global strategy conflicts with local market reality, I first work out the intent behind the headquarters position. The intent is usually right; it's the implementation path that needs localizing. Then I bring local market evidence — data — and propose something that can land in the market today while still moving in the direction global wants. In my experience, headquarters is willing to accept a local recommendation when it comes with data behind it."
 
 ---
 
@@ -154,7 +161,9 @@ Marketing 和 Sales 不是「市场做完内容再交给销售」的串联关系
 
 **双向反馈机制：** Marketing 向 Sales 输出 → Sales 带回真实的客户反馈 → Marketing 据此优化工具和策略，而不是单向推送。
 
-**面试语言：** 「我理解市场和销售的关系是从一开始就应该一起定义机会，而不是市场做完内容再交给销售。我的工作是把市场洞察转化成销售真正能用的东西：更清晰的客户细分、可量化的价值主张、竞品应对工具——并且在执行中持续收集销售反馈来优化。最终评价是：销售的成单率和客户对话质量是否真的提升了。」
+**面试语言（中文）：** 「我理解市场和销售的关系是从一开始就应该一起定义机会，而不是市场做完内容再交给销售。我的工作是把市场洞察转化成销售真正能用的东西：更清晰的客户细分、可量化的价值主张、竞品应对工具——并且在执行中持续收集销售反馈来优化。最终评价是：销售的成单率和客户对话质量是否真的提升了。」
+
+**Interview language (English):** "I see marketing and sales as defining the opportunity together from the start, rather than marketing finishing the content and handing it over. My job is to turn market insight into things sales can actually use: sharper customer segmentation, a quantifiable value proposition, competitive response tools — and to keep collecting sales feedback during execution to refine them. The test is simple: did the win rate and the quality of customer conversations actually improve?"
 
 ---
 
@@ -169,47 +178,86 @@ Marketing 和 Sales 不是「市场做完内容再交给销售」的串联关系
 **五类高质量 HM 反问：**
 
 **业务优先级类（展示你关注的是战略，不是流程）：**
-> 「从您的角度看，这个岗位在未来 12 个月里，最优先需要解决的 1-2 个业务问题是什么？」
+> 中文：「从您的角度看，这个岗位在未来 12 个月里，最优先需要解决的 1-2 个业务问题是什么？」
+>
+> English: "From your perspective, what are the one or two business problems this role needs to solve first over the next 12 months?"
 
 **资源与挑战类（展示你理解执行中的约束）：**
-> 「在推进 [某类工作，如细分策略/新品上市/销售赋能] 时，目前最大的内部阻力是什么——是资源、数据、跨部门优先级还是其他？」
+> 中文：「在推进 [某类工作，如细分策略/新品上市/销售赋能] 时，目前最大的内部阻力是什么——是资源、数据、跨部门优先级还是其他？」
+>
+> English: "When it comes to driving [segment strategy / a new launch / sales enablement], what's the biggest internal friction today — resources, data, cross-functional priorities, or something else?"
 
 **成功定义类（展示结果导向，而不是行为导向）：**
-> 「如果 12 个月后这个岗位做得非常成功，您会看到哪些具体的变化或成果？」
+> 中文：「如果 12 个月后这个岗位做得非常成功，您会看到哪些具体的变化或成果？」
+>
+> English: "If someone is doing this job really well 12 months from now, what specific changes or results would you be seeing?"
 
 **团队合作类（展示你已经在思考如何快速融入）：**
-> 「这个岗位需要和 Sales、Technical、Supply Chain、Global 等多方合作，您觉得哪个协作方向当前是最需要改善的，也是这个岗位能产生最大影响的地方？」
+> 中文：「这个岗位需要和 Sales、Technical、Supply Chain、Global 等多方合作，您觉得哪个协作方向当前是最需要改善的，也是这个岗位能产生最大影响的地方？」
+>
+> English: "This role works across sales, technical, supply chain and global. Which of those working relationships most needs to improve right now — and where could this role have the biggest impact?"
 
 **对候选人视角的验证（高阶问法）：**
-> 「我在准备这次面试时，对贵司 [某业务/市场/产品] 的理解是 [X]。想确认一下，这个方向和您实际观察到的是否一致？有没有我遗漏或误解的地方？」
+> 中文：「我在准备这次面试时，对贵司 [某业务/市场/产品] 的理解是 [X]。想确认一下，这个方向和您实际观察到的是否一致？有没有我遗漏或误解的地方？」
+>
+> English: "In preparing for this conversation, my read on [the business / market / product] is [X]. I'd like to check that against what you actually see — is that consistent, and is there anything I'm missing or misreading?"
 
 ---
 
 ## 输出格式
 
-根据输入信息，生成以下内容：
+根据输入信息，生成以下内容。**每一项表达都要给出中文版和英文版，顺序固定为先中文、后英文。**
 
 ---
 
 **【业务模型理解 60-90 秒版（可直接在面试中使用）】**
-> [中文/英文完整版]
+
+*中文：*
+> [完整版]
+
+*English:*
+> [English version]
+
+*English — 30 秒精简版（高层/外籍 HM 时间紧时用）：*
+> [condensed English version]
 
 **【产品组合管理能力表达（60秒版）】**
+
+*中文：*
 > [面试语言]
+
+*English:*
+> [English version]
 
 **【客户洞察转行动能力表达（60秒版）】**
+
+*中文：*
 > [面试语言]
+
+*English:*
+> [English version]
 
 **【全球-本地平衡能力表达（含案例）】**
+
+*中文：*
 > [面试语言 + 具体案例连接]
 
+*English:*
+> [English version]
+
 **【销售协作能力表达（45秒版）】**
+
+*中文：*
 > [面试语言]
 
+*English:*
+> [English version]
+
 **【向 HM 的 3 个反问（可直接使用）】**
-1. [问题1]
-2. [问题2]
-3. [问题3]
+
+1. 中文：[问题1] ｜ English: [question 1]
+2. 中文：[问题2] ｜ English: [question 2]
+3. 中文：[问题3] ｜ English: [question 3]
 
 **【高频 HM 问题应对（快速答题框架）】**
 
@@ -227,7 +275,7 @@ Marketing 和 Sales 不是「市场做完内容再交给销售」的串联关系
 目标岗位：Segment Marketing Manager – Dairy & Beverage
 目标公司：[某跨国专业服务企业]（食品饮料/医疗/酒店行业水卫生解决方案）
 HM 背景：Marketing Director，在该公司负责中国区及亚太部分区域
-面试语言：中英文均需准备
+面试语言：中英双语（先中文后英文）
 候选人背景：5年[某跨国工业设备企业]产品管理经历，熟悉B2B细分市场管理和GTM执行
 JD 核心能力要求：segment strategy / value proposition / sales enablement / data-driven
 ```
@@ -236,55 +284,97 @@ JD 核心能力要求：segment strategy / value proposition / sales enablement 
 
 ---
 
-**【业务模型理解 60-90 秒版（中文，强烈建议在面试中用；完整版可按需精简至 90 秒内）】**
+**【业务模型理解 60-90 秒版】**
+
+*中文（强烈建议在面试中用；完整版可按需精简至 90 秒内）：*
 > 从业务模型上看，这家公司是非常独特的——它的增长不依赖一次性的大项目，而是通过持续服务、可量化价值以及应用场景的不断扩展来实现经常性收入的提升。这意味着市场和营销的角色，不只是品牌支持，而是要真正定义「为什么客户在三个月后还愿意续约」，并帮助销售把这句话说清楚。
 >
 > 在[某跨国工业设备企业]，我长期负责细分市场管理，通过 VOC、应用场景研究和竞争分析，把洞察转化为产品路线图、价值主张和 GTM 策略，并与销售团队深度协作推进落地。这种「从洞察到行动到量化结果」的工作方式，和这家公司以场景和价值驱动增长的模型高度一致。
 >
 > 同时，我也习惯用数据来验证策略效果，例如通过 Power BI 搭建细分市场表现看板，支持优先级决策。在这样反馈周期更短的业务环境中，我相信可以更快把市场判断转化为可量化的业务结果。
 
-**【英文 30 秒精简版（高层/外籍 HM 用）】**
+*English:*
+> "Looking at the business model, this company is unusual — growth doesn't come from one-off large projects, but from recurring revenue built on continuous service, quantifiable value, and steadily expanding the range of applications. That means marketing isn't a brand support function here. Its job is to define why a customer still wants to renew three months later, and to help sales articulate that clearly.
+>
+> At [a multinational industrial equipment company] I owned segment management for several years. I used VOC, application research and competitive analysis to turn insight into product roadmaps, value propositions and GTM strategy, and worked closely with sales to land it. That way of working — insight to action to a measurable result — maps directly onto a model where growth is driven by application and value.
+>
+> I also validate strategy with data. For example, I built a Power BI dashboard on segment performance to support prioritization decisions. In a business with a shorter feedback loop like this one, I think I can turn a market judgment into a measurable business result faster."
+
+*English — 30 秒精简版（高层/外籍 HM 时间紧时用）：*
 > "From a business model perspective, this company's growth comes not from one-time projects, but from continuously expanding value delivery and application scope within existing customers. That means Marketing is a direct growth driver, not a support function. My background in B2B segment strategy, GTM execution and data-driven portfolio management maps directly to what this model requires."
 
 ---
 
 **【产品组合管理能力表达（60秒版）】**
+
+*中文：*
 > 「我管理产品组合时会同时用三个视角看：生命周期视角告诉我哪些产品在增长、哪些在成熟、哪些需要优化甚至退出；市场视角告诉我每个产品最应该服务哪些细分客户和应用场景；业务视角告诉我收入和利润贡献是否健康，哪里有 gap。
 >
 > 在[某跨国工业设备企业]，我用这个框架管理了 3 个产品系统 30+ SKU，主导了超过 1XXX 条存量产线的生命周期分析，把退市和升级议题推进到了公司前十大战略规划。」
 
+*English:*
+> "I manage a portfolio through three lenses at once. Lifecycle tells me what's growing, what's mature, and what needs optimizing or phasing out. The market lens tells me which segments and applications each product should really serve. The business lens tells me whether the revenue and margin contribution is healthy, and where the gaps are.
+>
+> At [a multinational industrial equipment company] I used that framework across three product systems and more than 30 SKUs, and led a lifecycle analysis covering over 1,XXX installed lines. That work put phase-out and upgrade decisions into the company's top-ten strategic plan."
+
 ---
 
 **【客户洞察转行动能力表达（60秒版）】**
+
+*中文：*
 > 「我把客户需求看作输入，而不是终点。真正的工作是把碎片化反馈翻译成可执行的业务动作——有时候是产品组合调整，有时候是重新定义价值主张，有时候是更新销售工具。
 >
 > 举个例子：在[某跨国工业设备企业]，我作为客户体验反馈整合负责人，整合了上千条客户反馈，逐条拆解，把表面的「响应时间慢」翻译成「是工程师资源不足还是流程协同问题还是能力问题」，再把这些洞察转化成 BU 和销售团队可以直接采取行动的优先级建议。」
 
+*English:*
+> "I treat customer needs as an input, not an endpoint. The real work is translating fragmented feedback into an executable business action — sometimes a portfolio adjustment, sometimes a redefined value proposition, sometimes an updated sales tool.
+>
+> For example, at [a multinational industrial equipment company] I owned the customer experience feedback program. I consolidated over a thousand pieces of customer feedback and worked through them individually, translating a surface complaint like 'response time is slow' into the actual driver — whether it was engineer capacity, process handoffs, or a capability gap. I then turned that into prioritized recommendations the business units and sales teams could act on directly."
+
 ---
 
 **【全球-本地平衡能力表达（含案例）】**
+
+*中文：*
 > 「全球战略和本地市场冲突时，我的方法是先弄清楚总部战略背后的核心意图——意图通常是对的，但实施路径需要本地化。
 >
 > 一个例子：总部推行全面可持续包装方案，但中国市场当时的成本溢价超过 15%，消费者买单意愿不足。我没有简单拒绝，而是用本地调研和价格模拟数据，提出了第一阶段 50% 可持续材质作为阶段性最优解，同时在路径上仍然对齐全球目标。总部采纳了这个方案，项目顺利落地。
 >
 > 关键是：用数据替代争论，让本地市场的真实情况成为对话的基础，而不是讨价还价。」
 
+*English:*
+> "When global strategy conflicts with the local market, I start by working out the intent behind the headquarters position. The intent is usually right — it's the implementation path that needs localizing.
+>
+> One example: headquarters was rolling out a fully sustainable packaging solution, but in China at that time the cost premium was over 15% and consumer willingness to pay wasn't there. Rather than simply pushing back, I used local research and price modelling to propose a first phase at 50% sustainable material as the best available step, while staying aligned with the global target on the roadmap. Headquarters accepted it and the project landed.
+>
+> The key was replacing argument with data — making the real local market situation the basis of the conversation rather than a negotiation."
+
 ---
 
 **【销售协作能力表达（45秒版）】**
+
+*中文：*
 > 「我认为市场和销售的关系是从一开始就要一起定义机会，而不是市场做完内容再交出去。
 >
 > 具体来说：我会和销售一起确认最值得打的细分客户和应用场景，把技术优势转化成销售真正能用的价值主张——不是广告语，而是「在这个应用场景里，为什么选我们能帮客户解决什么问题」。然后在执行中持续收集销售反馈，调整工具和优先级。最终的评价标准是：销售的成单率和客户对话质量是否真的提升了。」
+
+*English:*
+> "I think marketing and sales should define the opportunity together from the start, rather than marketing finishing the content and handing it over.
+>
+> In practice that means agreeing with sales on which segments and applications are worth going after, and turning our technical advantages into a value proposition sales can actually use — not a tagline, but 'in this application, here's the problem choosing us solves for the customer.' Then I keep collecting sales feedback during execution and adjust the tools and priorities. The test is whether the win rate and the quality of customer conversations actually improved."
 
 ---
 
 **【向 HM 的 3 个反问（可直接使用）】**
 
-1. 「从您的角度看，Dairy & Beverage 这个细分市场在未来 12 个月最优先需要推进的 1-2 件事是什么？是新客户开发、现有客户渗透，还是价值主张的重新定义？」
+1. 中文：「从您的角度看，Dairy & Beverage 这个细分市场在未来 12 个月最优先需要推进的 1-2 件事是什么？是新客户开发、现有客户渗透，还是价值主张的重新定义？」
+   English: "From your perspective, what are the one or two priorities for the Dairy & Beverage segment over the next 12 months — new customer acquisition, penetration of existing accounts, or redefining the value proposition?"
 
-2. 「在推进细分市场策略时，目前最大的内部阻力是什么——是销售团队的能力建设、与技术/应用团队的协同，还是数据和工具的支持？我想了解一下，这样我可以判断入职后如何最快产生价值。」
+2. 中文：「在推进细分市场策略时，目前最大的内部阻力是什么——是销售团队的能力建设、与技术/应用团队的协同，还是数据和工具的支持？我想了解一下，这样我可以判断入职后如何最快产生价值。」
+   English: "What's the biggest internal friction in driving segment strategy today — building sales capability, working with the technical and application teams, or data and tooling support? I'm asking so I can judge where I could add value fastest."
 
-3. 「如果 12-18 个月后这个岗位做得非常成功，您会看到哪些具体的变化——是收入增长、新客户数量、销售工具质量，还是市场渗透率？」
+3. 中文：「如果 12-18 个月后这个岗位做得非常成功，您会看到哪些具体的变化——是收入增长、新客户数量、销售工具质量，还是市场渗透率？」
+   English: "If someone is doing this job really well 12 to 18 months from now, what would you actually see — revenue growth, new customer count, the quality of the sales toolkit, or market penetration?"
 
 ---
 
@@ -306,7 +396,7 @@ JD 核心能力要求：segment strategy / value proposition / sales enablement 
 ```
 目标岗位名称 + 目标公司：
 HM背景（职位/负责领域，如已知）：
-面试语言（中文 / 英文 / 中英混合）：
+面试语言（默认中英双语输出；如只需单一语言请注明）：
 JD核心能力要求（选填）：
 已有故事库（来自 Skill 09，选填）：
 公司业务模型理解（来自 Skill 06，选填）：

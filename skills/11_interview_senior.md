@@ -8,7 +8,7 @@
 >
 > **你需要准备**：高层面试官背景、目标岗位与公司、最担心被挑战的维度
 >
-> **你会获得**：核心信号设计、3 分钟市场洞察表达、P&L 视角表达、高频问题框架、跟进消息
+> **你会获得**：核心信号设计、3 分钟市场洞察表达、P&L 视角表达、高频问题框架、跟进消息——全部中英双语，先中文后英文
 
 ## 适用场景
 
@@ -34,7 +34,7 @@
 **必填：**
 - 高层面试官的背景（职位/负责领域/已知的关注点）
 - 目标岗位和公司（帮助判断高层最可能关心的「业务优先级」）
-- 面试语言：中文 / 英文
+- 面试语言偏好（默认中英双语、先中文后英文；如只需单一语言请注明）
 
 **选填（提供后质量显著提升）：**
 - 已知的面试形式（1 v 1 / Panel / 领导约谈）
@@ -55,7 +55,8 @@
 
 - 必填输入缺失时，先逐项提问收集，不要假设或编造
 - 按输出格式的模块顺序输出，每次只完成当前阶段
-- 输出语言跟随使用者输入的语言
+- 分析框架与说明性文字用中文；**所有可直接在面试中使用的表达（核心信号、市场洞察、Segment Ownership、P&L、关键句式、跟进消息）一律输出中英双语，顺序固定为先中文、后英文**
+- 英文版不是中文的逐字直译，而是符合英语高管对话语感的地道表达（观点前置、句子更短、结论落在业务结果上）
 - 涉及市场数据/薪资区间时，标注来源类型与不确定性，并提醒使用者自行验证
 
 ---
@@ -182,33 +183,53 @@
 
 ## 输出格式
 
-根据输入信息，生成以下内容：
+根据输入信息，生成以下内容。**每一项表达都要给出中文版和英文版，顺序固定为先中文、后英文。**
 
 ---
 
 **【高层面试核心信号设计（3句话版本）】**
-> 候选人希望在这轮面试中传达的3个核心信号：
-> 1. [信号1：思维方式/Business Ownership]
-> 2. [信号2：市场/行业判断力]
-> 3. [信号3：成长潜力与可信赖感]
+> 候选人希望在这轮面试中传达的3个核心信号（每条中英各一句）：
+> 1. [信号1：思维方式/Business Ownership] — 中文：[...] ｜ English: [...]
+> 2. [信号2：市场/行业判断力] — 中文：[...] ｜ English: [...]
+> 3. [信号3：成长潜力与可信赖感] — 中文：[...] ｜ English: [...]
 
 **【市场洞察（3分钟口语版，可直接使用）】**
-> [完整市场洞察表达，中文/英文]
+
+*中文：*
+> [完整市场洞察表达]
+
+*English:*
+> [English version]
 
 **【Segment Ownership 表达（60秒版）】**
+
+*中文：*
 > [面试语言]
 
+*English:*
+> [English version]
+
 **【P&L 影响意识表达（含具体案例连接）】**
+
+*中文：*
 > [面试语言]
+
+*English:*
+> [English version]
 
 **【高层面试高频问题应对（5题快速框架）】**
 
-| 问题 | 核心框架 | 关键句式 |
-|-----|---------|---------|
-| ... | ... | ... |
+| 问题 | 核心框架 | 关键句式（中文） | Key line (English) |
+|-----|---------|---------------|--------------------|
+| ... | ... | ... | ... |
 
 **【面试后跟进消息（可直接使用）】**
-> [LinkedIn 消息 / 邮件文本，中文/英文]
+
+*中文（LinkedIn / 邮件）：*
+> [文本]
+
+*English (LinkedIn / email):*
+> [text]
 
 ---
 
@@ -221,7 +242,7 @@
 目标岗位：Market Manager（Segment Owner，覆盖某垂直市场细分）
 候选人最担心被挑战的维度：P&L 经验不足 / 行业迁移（从[原细分领域]转到[相邻细分领域]）
 候选人最想传达的信号：「我是一个可以接住 Segment 的人，不只是执行者」
-面试语言：中文
+面试语言：中英双语（先中文后英文）
 ```
 
 ### 输出
@@ -229,13 +250,24 @@
 ---
 
 **【核心信号设计（3个）】**
-1. **Segment Ownership 思维** — 我能把这个细分市场当作一个小业务来经营，从市场分析到策略定义到内部协同，有完整的端到端视角
-2. **转型逻辑清晰** — 从[原细分领域]到[相邻细分领域]，行业表面不同，但同类 B2B 市场的客户决策逻辑、价值主张构建和跨部门商业化执行是高度迁移的
-3. **结果导向与可信赖** — 我不是在追求一个头衔，而是在找一个有更强 business ownership 的平台，我的过去经历证明了这个方向
+
+1. **Segment Ownership 思维**
+   - 中文：我能把这个细分市场当作一个小业务来经营，从市场分析到策略定义到内部协同，有完整的端到端视角
+   - English: I can run this segment like a small business — market analysis, strategy definition and internal alignment, end to end
+
+2. **转型逻辑清晰**
+   - 中文：从[原细分领域]到[相邻细分领域]，行业表面不同，但同类 B2B 市场的客户决策逻辑、价值主张构建和跨部门商业化执行是高度迁移的
+   - English: Moving from [origin sub-sector] to [adjacent sub-sector], the industries look different on the surface — but in comparable B2B markets, how customers decide, how you build a value proposition, and how you drive cross-functional commercialization all transfer
+
+3. **结果导向与可信赖**
+   - 中文：我不是在追求一个头衔，而是在找一个有更强 business ownership 的平台，我的过去经历证明了这个方向
+   - English: I'm not chasing a title — I'm looking for a platform with stronger business ownership, and my track record points in that direction
 
 ---
 
 **【市场洞察（3分钟口语版）】**
+
+*中文：*
 > 「我对这个细分市场的判断是：竞争加剧、利润承压，但可持续和高附加值仍然有清晰的机会。
 >
 > 具体来说，有两个趋势很重要：一是本土竞争加剧，很多本土供应商在标准化产品上的价格非常有竞争力，这让中低端市场的利润空间越来越窄；二是高端客户对可持续性和差异化的需求在提升——尤其是品牌客户，他们需要用包装来强化他们自己的品牌故事，这里对技术和解决方案能力有真实的支付意愿。
@@ -244,18 +276,38 @@
 >
 > 我在[某跨国工业设备企业]积累的 B2B 经验，核心训练就是如何在成熟市场里找到高价值细分，并把技术优势翻译成客户语言。这套能力在这个市场里是直接可用的。」
 
+*English:*
+> "My read on this segment is that competition is intensifying and margins are under pressure — but sustainability and high value-add still hold a clear opportunity.
+>
+> Two trends matter. First, domestic competition has intensified: local suppliers are very price-competitive on standardized products, which keeps squeezing margin in the mid and low end. Second, demand from premium customers for sustainability and differentiation is rising — especially brand customers, who need packaging to reinforce their own brand story. There's real willingness to pay there for technical and solution capability.
+>
+> So my view is that the opportunity in this market isn't volume. It's getting into the premium accounts that genuinely value all three layers — functional value, economic value and brand value. Those customers don't decide on price alone; they decide on whether you can solve both their positioning problem and their cost-efficiency problem.
+>
+> The core of my B2B training at [a multinational industrial equipment company] was exactly that: finding the high-value segments inside a mature market and translating technical advantages into customer language. That capability transfers directly here."
+
 ---
 
 **【Segment Ownership 表达（60秒版）】**
+
+*中文：*
 > 「我理解这个岗位不只是 Marketing 执行，而是要对这个细分市场的策略、增长和内部协同全面负责——有点像一个 Mini-GM。
 >
 > 我对 Segment Ownership 的理解是：首先要有清晰的市场分析，知道哪个细分最有价值；其次要有主张的战略取舍，说清楚聚焦什么、不做什么、为什么；然后要把这些转化成三层价值主张——功能价值、经济价值、品牌价值——这才是 Sales 能真正用的工具；最后要能推动内部协同，让 Sales/Technical/Supply Chain 都往同一个方向使力。
 >
 > 这是我在[某跨国工业设备企业]做细分市场产品管理时，实际操作过的逻辑。」
 
+*English:*
+> "I read this role as more than marketing execution — it's full accountability for the segment's strategy, growth and internal alignment. Closer to a mini-GM.
+>
+> To me, segment ownership means four things. You start with a clear market analysis so you know which sub-segment holds the most value. Then you take a position on the trade-offs — what we focus on, what we don't do, and why. Then you turn that into a three-layer value proposition — functional, economic and brand value — because that's what actually becomes a usable tool for sales. And finally you drive the internal alignment so sales, technical and supply chain are all pushing the same direction.
+>
+> That's the logic I ran in practice doing segment product management at [a multinational industrial equipment company]."
+
 ---
 
 **【P&L 影响意识表达（含案例连接）】**
+
+*中文：*
 > 「我没有完整的独立 P&L 所有权，但我的产品和市场决策始终是在考虑业务影响的前提下做的。
 >
 > 举个例子：在[某跨国工业设备企业]，我主导了一个全球首发的新产品系统在中国市场的商业化落地，第一年实现了约 €XM 收入，第二年形成了 €YM 的销售管道。这个决策的背后，是我在市场机会评估、定价策略、GTM 资源分配上做了系统性的取舍判断。
@@ -264,24 +316,35 @@
 >
 > 所以我的 P&L 视角不是来自拥有独立 P&L，而是来自每一个产品和市场决策都需要我明确『为什么是这个而不是那个』——最终结果的业务意义是什么。」
 
+*English:*
+> "I haven't held a standalone P&L, but my product and marketing decisions have always been made against their business impact.
+>
+> One example: at [a multinational industrial equipment company] I led the China commercialization of a globally first-of-its-kind product system. It delivered around €XM in first-year revenue and built a €YM pipeline in the second year. Behind that were systematic trade-off calls I made on market opportunity assessment, pricing strategy and GTM resource allocation.
+>
+> A second example is portfolio optimization. I analyzed the lifecycle of over 1,XXX installed lines to identify which platforms deserved priority for upgrade — judged on business value to the customer and revenue plus margin contribution to us. That work entered the company's top-ten strategic plan.
+>
+> So my P&L perspective doesn't come from owning one. It comes from the fact that every product and market decision required me to be explicit about why this and not that — and what the business consequence of the outcome actually was."
+
 ---
 
 **【高层面试高频问题（5题快速框架）】**
 
-| 问题 | 核心框架 | 关键句式 |
-|-----|---------|---------|
-| 你如何制定细分市场策略？ | Market→Segment→Target→Value→Execution | 「我会从识别价值密度最高的细分开始，而不是从产品参数开始」|
-| 如何影响没有汇报关系的销售团队？ | 理解顾虑→翻译产品语言为客户语言→帮他们赢单 | 「我的核心工作是给 Sales 可以用的工具，而不是要求他们执行我的策略」|
-| 行业迁移的逻辑是什么？ | 迁移点：客户决策逻辑+价值主张构建+B2B商业化 | 「同类B2B市场的核心商业逻辑是高度迁移的——客户如何决策、价值主张如何构建、如何推动跨部门落地」|
-| 你如何做 pricing？ | 价值导向+竞争环境+客户支付意愿+利润影响 | 「不是成本加成，而是：这个应用场景里的客户，为什么愿意为这个价格付费」|
-| 5年后你在哪里？ | 在 [这个行业/方向] 持续深耕，承担更完整的 Segment 或业务责任 | 「我希望在 B2B 市场营销和细分市场经营这个方向上持续深耕，成长为能对 Segment P&L 全面负责的人」|
+| 问题 | 核心框架 | 关键句式（中文） | Key line (English) |
+|-----|---------|---------------|--------------------|
+| 你如何制定细分市场策略？ | Market→Segment→Target→Value→Execution | 「我会从识别价值密度最高的细分开始，而不是从产品参数开始」| "I start from where the value is most concentrated, not from product specs" |
+| 如何影响没有汇报关系的销售团队？ | 理解顾虑→翻译产品语言为客户语言→帮他们赢单 | 「我的核心工作是给 Sales 可以用的工具，而不是要求他们执行我的策略」| "My job is to give sales something they can use, not to ask them to execute my strategy" |
+| 行业迁移的逻辑是什么？ | 迁移点：客户决策逻辑+价值主张构建+B2B商业化 | 「同类B2B市场的核心商业逻辑是高度迁移的——客户如何决策、价值主张如何构建、如何推动跨部门落地」| "The core commercial logic transfers across comparable B2B markets — how customers decide, how you build a value proposition, how you drive it cross-functionally" |
+| 你如何做 pricing？ | 价值导向+竞争环境+客户支付意愿+利润影响 | 「不是成本加成，而是：这个应用场景里的客户，为什么愿意为这个价格付费」| "Not cost-plus. The question is why a customer in this application is willing to pay this price" |
+| 5年后你在哪里？ | 在 [这个行业/方向] 持续深耕，承担更完整的 Segment 或业务责任 | 「我希望在 B2B 市场营销和细分市场经营这个方向上持续深耕，成长为能对 Segment P&L 全面负责的人」| "I want to keep building depth in B2B marketing and running segments, and grow into someone who can own a segment P&L outright" |
 
 ---
 
-**【面试后跟进消息（LinkedIn，中文）】**
+**【面试后跟进消息（LinkedIn）】**
+
+*中文：*
 > 「您好，感谢今天的交流！您分享的关于如何在竞争加剧的市场中聚焦高价值细分、坚守 premium 定位的思路，让我对这个 Segment 的经营逻辑有了更深入的理解，也让我更确认这个方向和我想深耕的路径高度一致。期待后续有机会进一步合作，祝工作顺利！」
 
-**【面试后跟进消息（LinkedIn，英文版）】**
+*English:*
 > Thank you again for the conversation today. Your perspective on how to defend premium positioning in a competitive market by focusing on the highest-value segments really resonated with me. The discussion further strengthened my interest in this direction and this role. I look forward to staying in touch, and hope to have the opportunity to work together. Best regards.
 
 ---
@@ -291,7 +354,7 @@
 ```
 高层面试官背景（职位/负责领域/已知关注点）：
 目标岗位 + 公司：
-面试语言（中文 / 英文）：
+面试语言（默认中英双语输出；如只需单一语言请注明）：
 面试形式（1v1 / Panel / 领导约谈，选填）：
 最担心被挑战的维度（选填）：
 最想传达的核心信号（选填）：
