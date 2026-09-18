@@ -39,7 +39,7 @@ flowchart LR
 
 | Step | 文件 | 一句话说明 | 求职阶段 |
 |------|------|-----------|---------|
-| 01 | [`01_career_direction.md`](skills/01_career_direction.md) | 职业方向分析：能力盘点 → 方向比较 → Offer 决策（三阶段） | 定方向 |
+| 01 | [`01_career_direction.md`](skills/01_career_direction.md) | 职业方向分析：能力盘点 → 方向比较 → Offer 决策（三阶段，阶段三可单独使用） | 定方向 |
 | 02 | [`02_resume_builder.md`](skills/02_resume_builder.md) | 基础简历诊断与重建（含排版与终稿生成） | 做简历 |
 | 03 | [`03_resume_version.md`](skills/03_resume_version.md) | 按岗位大类生成 2-3 个定向投递版本 | 做简历 |
 | 04 | [`04_jd_analysis.md`](skills/04_jd_analysis.md) | JD 岗位解读、匹配度评估与面试考察点预测 | 投递 |
@@ -60,7 +60,7 @@ flowchart LR
 - 简历就绪，看到心动的 JD → **04，然后用 07 提高曝光**
 - 拿到面试邀约 → **先 05 建立行业认知，再 06 聚焦这家公司，然后按轮次进 08 / 09 / 10 / 11**
   - 08 / 09 / 10 / 11 的面试话术默认输出**中英双语，先中文后英文**，可按现场语言直接取用
-- 被问薪资或拿到 Offer → **12**；多个 Offer 纠结选哪个 → **01 的阶段三**
+- 被问薪资或拿到 Offer → **12**；多个 Offer 纠结选哪个 → **01 的阶段三**（比岗位本身，不比薪资；可单独使用）
 
 ---
 

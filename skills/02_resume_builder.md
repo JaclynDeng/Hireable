@@ -1,25 +1,30 @@
 # Step 02 Resume Builder｜基础简历搭建
 
-> What：诊断并重建一份外企/大公司投递可用的基础简历（含 ATS 安全排版与终稿文档）
-> When：简历写完没信心 / 经历转型需要重新定位 / 多段晋升不知如何呈现
-> 前置：建议先完成 Skill 01（career_direction）明确目标方向
-> 你需要准备：目标岗位方向、当前简历内容或经历要点
-> 你会获得：诊断报告、定位与 Summary 重写、经历 bullets 改写、可直接投递的终稿
-> 诚信红线：本 Skill 只优化真实经历的表达，不编造任何事实或数字；所有数字必须经得起面试追问
+> **What**：诊断并重建一份外企/大公司投递可用的基础简历（含 ATS 安全排版与终稿文档）
+>
+> **When**：简历写完没信心 / 经历转型需要重新定位 / 多段晋升不知如何呈现
+>
+> **前置**：建议先完成 Skill 01（career_direction）明确目标方向
+>
+> **你需要准备**：目标岗位方向、当前简历内容或经历要点
+>
+> **你会获得**：诊断报告、定位与 Summary 重写、经历 bullets 改写、可直接投递的终稿
+>
+> **诚信红线**：本 Skill 只优化真实经历的表达，不编造任何事实或数字；所有数字必须经得起面试追问
 
 ## 适用场景
 
 **适用阶段：**
-- 正在准备投递外企/大公司的产品、市场、商业化相关岗位
+- 正在准备投递外企/大公司的岗位（产品、市场、销售、运营、供应链、财务、HR 等职能均适用）
 - 简历写完但没有信心，不知道HR会怎么看
-- 经历转型（如产品→营销、B2B工业→消费品/医疗健康），需要重新定位简历叙事
+- 经历转型——换职能、换行业，或两者同时发生（如产品→营销、B2B工业→消费品）——需要重新定位简历叙事
 - 在同一家公司有多段内部晋升经历，不知道如何结构化呈现
 
 **解决的核心问题：**
 - 简历被HR看完3秒仍然不知道你是谁、能做什么
 - 经历描述停留在"职责清单"，没有体现商业影响
 - 多段经历分散、信号稀释，看起来像换了多份工作而非晋升成长
-- 语言风格不匹配目标岗位（如用产品语言投营销岗位）
+- 语言风格不匹配目标岗位——用原职能的内部语言去投另一个职能，HR读不出你和这个岗位的关系
 
 **适合人群：**
 有2年以上工作经验、正在准备外企或跨国公司求职简历的中层职场人，尤其是有多段经历或正在经历职能转型的候选人。
@@ -29,7 +34,7 @@
 ## 使用者需要提供的输入
 
 **必填：**
-- [目标岗位方向]（如：GTM产品经理 / Segment Marketing Manager / 品类创新经理）
+- [目标岗位方向]（如：重点客户销售经理 / 供应链计划经理 / 品类市场经理 / GTM产品经理）
 - [目标公司类型]（如：外资消费品、工业B2B外企、医疗健康企业）
 - [当前简历内容]（可以是草稿、要点列表，或已有版本）
 - [过往经历概述]：每段经历的公司类型、职位、年限、核心职责
@@ -47,7 +52,7 @@
 扮演一位服务外企和跨国公司招聘的**资深简历顾问**，具备以下专业视角：
 - 熟悉外企HR和Hiring Manager的阅读习惯，能在3秒内判断候选人信号是否清晰
 - 擅长将"做过什么"转化为"对业务有什么影响"的商业化表达
-- 能根据目标岗位的语言偏好（产品语言 / GTM语言 / 市场语言）重构同一段经历的表述
+- 能根据目标岗位的语言体系重构同一段经历的表述（怎么识别一个岗位的语言体系，见要点2）
 - 不只改写文字，而是诊断简历的结构性问题，帮助候选人重建定位逻辑
 
 ---
@@ -69,15 +74,19 @@
 
 **问题1：身份定位前3秒不清晰**
 HR拿到简历后，首先看的是"这是什么人"——如果第一眼看不到清晰的标签，后面的内容大概率被快速扫过。
-修复方法：在简历最顶部加一行定位标签，格式为"职能类型 + 行业/业务重点"，如：
-> `Product & Segment Marketing Manager｜B2B Industrial & Health Nutrition`
+修复方法：在简历最顶部加一行定位标签，格式为"职能类型 + 行业/业务重点"。以下是不同职能的示例，按自己的职能与业务重点替换，不要照抄：
+> `Product Manager｜Industrial Automation, Greater China`
+>
+> `Product Manager｜Medical Devices & Healthcare, APAC`
+>
+> `Category Manager｜Consumer Electronics, China & SEA`
 
 **问题2：Profile Summary写成了能力清单**
 "擅长跨职能协作、逻辑强、结果导向"是通用标签，HR看过无数次，不产生记忆。
 修复方法：Summary应是一段"职业画像"，结构为"背景 + 行业 + 核心价值 + 成果类型"，1段3-4行。
 
 **问题3：经历描述停留在职责，缺乏商业影响**
-"负责产品组合管理"和"主导产品组合重构，将SKU精简30%，支撑细分市场毛利提升5pp"是完全不同的信息密度。
+"负责产品组合管理"和"主导产品组合重构，将SKU精简30%，支撑细分市场毛利提升5pp"是完全不同的信息密度。换个职能同理："负责客户对接"和"主导[X]家重点客户的年度合同谈判，续约率从78%提升至92%"，差的也是同一个东西。
 修复方法：每段经历的每条bullet后面补一句"why it matters"——这个动作为哪个细分市场、哪个增长目标、哪个商业决策带来了什么影响。
 
 **问题4：多份经历的信号相互稀释**
@@ -90,9 +99,36 @@ HR拿到简历后，首先看的是"这是什么人"——如果第一眼看不�
 
 ---
 
-### 要点2：语言定位策略——Product语言 vs GTM语言
+### 要点2：语言体系匹配——把原职能的内部语言翻译成目标岗位的语言
 
-同一段经历，用不同语言表述，给HR传递的信号完全不同：
+同一段经历，用不同语言体系表述，给HR传递的信号完全不同。**但这一步不是查词表做替换，而是先判断目标岗位说什么语言，再翻译。**
+
+**第一步：采集目标岗位的语言体系（三个来源，按可信度排序）**
+1. 3-5 份同类目标 JD 的原文——统计反复出现的动词与名词，这是招聘方自己写下的语言（跨多份找共性；针对某一份 JD 逐条匹配是 Skill 04 的工作）
+2. 目标公司的官网、年报、产品页——公司对外怎么描述这块业务，内部大概率就怎么说
+3. LinkedIn 上现任同类岗位的人如何描述自己的职责
+
+**第二步：判断这个岗位靠什么为公司创造价值**，语言就往那个方向靠：
+
+| 岗位的价值来源 | 语言重心 |
+|---|---|
+| 带来收入（销售、商业化、GTM） | revenue / pipeline / conversion / market share |
+| 降低成本或提升效率（供应链、运营、流程、财务） | cost / lead time / productivity / utilization |
+| 控制风险（合规、质量、法务、安全） | compliance / audit / risk mitigation / standard |
+| 支撑更好的决策（数据、战略、市场研究） | insight / forecast accuracy / decision support |
+| 留住并放大客户价值（客户成功、服务、品牌） | retention / satisfaction / lifetime value |
+
+**第三步：翻译——只换归类词，不换事实**
+- 可以改的：动作的**归类词**，即同一件事换一个业务视角重新命名
+- 不能改的：数字、时间、范围、你在其中的真实角色
+- 自检：改完回到原始事实核对一遍，每条都要经得起面试官追问"这件事你具体做了什么"
+
+**第四步：删掉对目标读者不构成决策依据的内容**
+- 只有原职能内部才懂的流程细节与系统名
+- 与目标岗位无关的工具清单（除非它是关键差异化能力）
+- 只能证明"参与过"、不能证明"影响了什么"的描述
+
+**示例A：产品/流程语言 → GTM/商业化语言**（示范翻译的颗粒度，不是可直接套用的词表）
 
 | 原始描述（产品/流程侧重） | GTM/商业化语言版本 |
 |--------------------------|-------------------|
@@ -102,16 +138,15 @@ HR拿到简历后，首先看的是"这是什么人"——如果第一眼看不�
 | Product & Project focus | Commercial & GTM focus |
 | 质量标准维护 | Brand consistency & market-readiness execution |
 
-**投GTM/Product Marketing岗位应强调的关键词：**
-Revenue / Pipeline / Adoption / Positioning / Pricing / Sales Enablement / Market Expansion / Commercial Impact
+**示例B：运营/供应链语言 → 商业分析语言**
 
-**投GTM岗位应减少或删除的内容：**
-- 技术流程细节
-- 纯内部管理框架的描述
-- 工具使用列表（除非是关键差异化能力）
+| 原始描述（执行侧重） | 决策支持语言版本 |
+|---|---|
+| 负责发货计划与库存盘点 | Demand planning & inventory optimization across [X] SKUs |
+| 处理异常订单 | Root-cause analysis on order exceptions, reducing recurrence by ~[X]% |
+| 每周出报表 | Weekly performance reporting to regional leadership, informing [决策类型] |
 
-**投FMCG时的额外注意：**
-删除"B2B environments"等表述，改用"consumer & customer insights"，否则HR会将你归为工业型PM，影响面试邀约率。
+**跨行业投递时的额外动作：语境词替换。** 同一职能在不同行业有各自的默认语境词，留着上一个行业的词，HR 会顺手把你归回原行业。做法是用目标行业 JD 里的高频语境词，替换掉原行业的对应词。示例：从 B2B 工业转消费品时，`B2B environments`、`distributor management` 应替换为 `consumer & customer insights`、`channel & retail execution`，否则 HR 会先入为主地把你判为工业型候选人，影响面试邀约率。
 
 **与 Skill 04（jd_analysis）的边界：**
 本要点解决的是"语言体系"层面的匹配（产品语言 vs GTM语言 vs 市场语言）。针对**某一份具体JD**逐条提取关键词、做匹配度对照的工作，属于 Skill 04（jd_analysis）的范围。推荐流程：先用本 Skill 完成基础简历，再用 Skill 04（jd_analysis）针对目标 JD 做关键词校准，输出交给 Skill 03（resume_version）生成投递版本。
@@ -120,12 +155,14 @@ Revenue / Pipeline / Adoption / Positioning / Pricing / Sales Enablement / Marke
 
 ### 要点3：同公司多段晋升经历的结构化呈现
 
+下面用一位**B2B 工业行业产品背景**的候选人做示例——这个格式与职能、行业无关，销售、市场、运营、供应链、财务同样适用。
+
 **错误写法（HR误读风险高）：**
 
 ```
-某跨国工业设备企业 | 大中华区产品组合负责人 | 2024–2025
-某跨国工业设备企业 | 全球产品能力专家 | 2022–2024
-某跨国工业设备企业 | APAC Future Talent | 2020–2022
+某跨国工业设备企业 | 中国区产品组合负责人 | 2022–2025
+某跨国工业设备企业 | 产品经理 | 2020–2022
+某跨国工业设备企业 | 管培项目 — 产品专员 | 2018–2020
 ```
 
 问题：公司名重复出现三次，HR在快速扫描时容易误读为三段不同工作经历，削弱"持续成长"的印象。
@@ -133,17 +170,17 @@ Revenue / Pipeline / Adoption / Positioning / Pricing / Sales Enablement / Marke
 **正确写法（Grouped Progression Format）：**
 
 ```
-某跨国工业设备企业 | 上海 / APAC / 全球业务
-2020 – 2025
-[X]年内部晋升[N]次，横跨APAC、全球及大中华区职责
+某跨国工业设备企业 | 上海 / 中国区
+2018 – 2025
+[X]年内部晋升[N]次，职责范围从单一产品线扩展到中国区产品组合
 
-大中华区产品组合负责人（2024–2025）
+中国区产品组合负责人（2022–2025）
 • [你的代表性项目成果]
 
-全球产品能力专家（2022–2024）
+产品经理 — [产品线名称]（2020–2022）
 • [你的代表性项目成果]
 
-APAC Future Talent — 服务与包装（2020–2022）
+管培项目 — 产品专员（2018–2020）
 • [你在此类岗位的相关经历]
 ```
 
@@ -153,7 +190,7 @@ APAC Future Talent — 服务与包装（2020–2022）
 - 时间线连续，无断层，HR不会误解为跳槽
 
 **可加的破题句（放在公司名下方）：**
-> `[X]-year fast-track progression with [N] internal promotions across APAC, Global and China roles`
+> `[X]-year progression with [N] internal promotions across [职责范围，如 single product line → country portfolio / local → regional → global] roles`
 
 ---
 
@@ -167,6 +204,8 @@ APAC Future Talent — 服务与包装（2020–2022）
 示例对比：
 - ❌ 旧版：`Led GTM execution for new product launch`
 - ✅ 新版：`Led China GTM execution for [产品类型] launch, coordinating [X] cross-functional teams to deliver on-time go-live, generating [你的代表性成果数字] revenue in Year 1`
+
+**强动词的判断标准（先用标准，再看词表）：** 这个动词能否让读者看出**你是主语、并且有决策权或推动权**。凡是能被"参与了一下"解释的词都要换掉。下面是通用示例，请按目标职能补充本行业的高信号动词（供应链的 Streamlined / Consolidated / Forecasted，合规质量的 Audited / Certified / Remediated，数据的 Modeled / Automated / Instrumented，财务的 Forecasted / Optimized / Secured）。
 
 **常用强动词（适合外企简历）：**
 - ✅ 推荐：Standardized / Built / Launched / Reduced / Improved / Increased / Drove / Owned / Spearheaded / Partnered / Negotiated
@@ -241,7 +280,13 @@ APAC Future Talent — 服务与包装（2020–2022）
 正确做法：一句话嵌进经历段落，格式：
 > `Rotated across [部门A], [部门B] and [部门C] during [项目名称], building foundation in [能力1], [能力2] and [能力3].`
 
-**技能模块的推荐结构（高级GTM/Segment排版）：**
+**技能模块的组织规则（不要写成一长串逗号分隔的关键词）：**
+1. 从 3-5 份目标 JD 里提取 8-12 个能力关键词，按**能力簇**归成 3-4 组，每组一个加粗小标题
+2. 小标题用业务语言命名，回答"你能负责哪一类工作"，不要用工具名当组名
+3. 每组内 3-5 个关键词，用 ` | ` 分隔；工具/系统单独成组、放在最后
+4. 语言与跨文化能力不写等级词，写成能力（见下方 Global Exposure）
+
+**示例（一位 GTM/Segment 方向候选人的分组，示范颗粒度，不是可套用的分组模板）：**
 
 ```
 Commercial & Go-to-Market:
@@ -260,7 +305,7 @@ Systems & Tools:
 **Global Exposure的正确写法（不要写"English: Fluent"）：**
 > `[X] years in [Global/Regional Business Unit], partnering with [HQ/regional] stakeholders to drive [产品策略/商业化落地]. Fluent in English; experienced in leading cross-border alignment and launch execution.`
 
-原因：GTM岗位最在意的是"能否对齐HQ和本地/主导区域落地/无正式权力影响他人"，"Fluent"这个词无法传递这些能力。
+原因：涉及跨区域、跨总部协作的岗位，最在意的是"能否对齐总部与本地、能否主导区域落地、能否在没有正式权力的情况下影响他人"——"Fluent"这个词一个都传递不了。
 
 ---
 
@@ -280,7 +325,7 @@ Systems & Tools:
 
 **模块二：定位重构**
 - 建议的简历顶部标签（职能定位行）
-- 重写后的Professional Summary（中英双语，按目标语言）
+- 重写后的Professional Summary（按使用者在输入中选定的简历语言输出；未指定时默认中文）
 - 核心技能模块的推荐结构
 
 **模块三：经历改写**
@@ -396,19 +441,20 @@ pdftoppm -jpeg -r 150 output.pdf page
 
 ## 使用示例
 
+以下示例用的是一位 **B2B 工业行业产品背景**的候选人。本 Skill 的框架与职能无关——销售、市场、运营、供应链、财务同样适用；示例保持这个颗粒度，是为了示范输出该写到多细，不是让你套用这个人的经历。
+
 **输入：**
 ```
-目标岗位：Segment Marketing Manager，投某跨国专业服务企业（化工/工业B2B方向）
+目标岗位：Product Manager，投某跨国工业设备企业（中国区产品线）
 目标语言：英文简历
 当前简历问题（自述）：
 - 在某跨国工业设备企业有3段内部晋升经历，分开写的
 - Profile Summary感觉像能力清单
-- [某企业]只待了4个月，不知道怎么写
+- 早期管培经历写得太细，占掉了近期成果的篇幅
 过往经历：
-- [某跨国工业设备企业]：APAC Future Talent → 全球产品能力专家 → 大中华区产品组合负责人，共5年
-- [某国内保健品初创企业]：产品开发经理，4个月
+- [某跨国工业设备企业]：管培项目产品专员 → 产品经理 → 中国区产品组合负责人，共7年
 最想保留的亮点：[你的代表性项目]带来的收入成果
-最担心的弱点：某国内保健品初创企业经历太短
+最担心的弱点：全部经历集中在一家公司，担心被看成平台依赖
 ```
 
 **输出：**
@@ -419,49 +465,36 @@ pdftoppm -jpeg -r 150 output.pdf page
 |------|------|----------|
 | 3段经历拆分写，HR误读为3段不同工作 | 某跨国工业设备企业3段 | 合并为Grouped Progression Format，公司名只出现一次 |
 | Summary是能力清单，无职业画像 | Profile Summary | 改写为"背景+行业+核心价值+成果类型"四要素格式 |
-| Bullets偏职责描述，缺商业影响 | 全球产品能力专家段 | 每条bullet补"why it matters"，加量化成果 |
-| [某企业]段落太简略（或太详细） | [某企业]段 | 控制在2-3条，聚焦"做了什么"而非"为什么短期" |
+| Bullets偏职责描述，缺商业影响 | 产品经理段 | 每条bullet补"why it matters"，加量化成果 |
+| 早期管培经历占篇幅，挤压近期成果 | 管培项目段 | 按时间递减原则压缩为一句话，嵌进经历段落 |
 
 **【定位重构】**
 
 建议顶部标签：
-> `Product & Segment Marketing Manager｜B2B Industrial & Health Nutrition`
+> `Product Manager｜B2B Industrial & Healthcare`
 
 重写后的Summary（英文）：
-> `Product and Segment Marketing professional with [X] years of experience across APAC, Global and Greater China markets at a leading industrial multinational. Proven track record in portfolio strategy, GTM execution and cross-functional commercialization, delivering [成果类型] across multiple product categories. Experienced in VOC-driven positioning, NPD deployment and sales enablement in complex B2B environments.`
+> `Product management professional with [X] years of experience across China and regional markets at a leading industrial multinational. Proven track record in portfolio strategy, GTM execution and cross-functional commercialization, delivering [成果类型] across multiple product lines. Experienced in customer-driven positioning, NPD deployment and sales enablement in complex B2B environments.`
 
 **【某跨国工业设备企业经历合并后格式】**
 
 ```
-某跨国工业设备企业 | Shanghai / APAC / Global
-2020 – 2025
-[X]-year fast-track progression with [N] internal promotions across APAC, Global and China roles
+某跨国工业设备企业 | Shanghai / China
+2018 – 2025
+[X]-year progression with [N] internal promotions from a single product line to country portfolio ownership
 
-Greater China Portfolio Leader（2024–2025）
+China Portfolio Manager（2022–2025）
 • [你的代表性项目]，generating [你的代表性成果数字] in Year 1
 • Led portfolio rationalization across [X] SKUs, improving [商业指标] by [幅度]
 
-Global Product Capability Specialist（2022–2024）
+Product Manager — [Product Line]（2020–2022）
 • Built and deployed [能力/工具/框架]，adopted by [覆盖范围] within [时间]
 • [你在此类岗位的相关经历]
 
-APAC Future Talent — Services & Packaging（2020–2022）
-• Rotated across Services Portfolio, Packaging Products, Key Account Management and Marketing,
-  building foundation in product lifecycle management, customer-centric insights and GTM execution
+Graduate Program — Product Specialist（2018–2020）
+• Rotated across product management, customer support and commercial operations,
+  building foundation in product lifecycle management, customer insights and GTM execution
 ```
-
-**【某国内保健品初创企业经历写法】**
-
-```
-某国内保健品初创企业 | Product Development Manager
-2025（[X]个月）
-• Led end-to-end packaging development from concept to launch, ensuring alignment with
-  brand strategy and quality standards
-• Managed supplier co-innovation to drive cost efficiency and accelerate product innovation
-• Enhanced cross-functional collaboration to improve project delivery cadence
-```
-
-Cover Letter中补充：此段经历是在[某跨国工业设备企业]后主动探索健康营养行业的阶段性实践，为进入更大平台做行业积累准备。
 
 **【确认后进入模块五】**
 

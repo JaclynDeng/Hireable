@@ -1,10 +1,14 @@
 # Step 03 Resume Version｜定向简历版本生成
 
-> What：基于基础简历，按岗位大类生成 2-3 个定向投递版本（含 Cover Letter 要点与终稿 DOCX）
-> When：开始批量投递 / 同时投多类岗位 / 需要行业特定的语言风格
-> 前置：需先完成 Skill 02（resume_builder）
-> 你需要准备：基础简历内容、目标版本类型、1-3 个代表性 JD 要点
-> 你会获得：版本定位、Summary 与核心经历的版本化改写、技能模块调整、Cover Letter 要点、可投递的 DOCX 文件
+> **What**：基于基础简历，按岗位大类生成 2-3 个定向投递版本（含 Cover Letter 要点与终稿 DOCX）
+>
+> **When**：开始批量投递 / 同时投多类岗位 / 需要行业特定的语言风格
+>
+> **前置**：需先完成 Skill 02（resume_builder）
+>
+> **你需要准备**：基础简历内容、目标版本类型、1-3 个代表性 JD 要点
+>
+> **你会获得**：版本定位、Summary 与核心经历的版本化改写、技能模块调整、Cover Letter 要点、可投递的 DOCX 文件
 
 ## 适用场景
 
@@ -12,8 +16,8 @@
 
 **适用阶段：**
 - 基础简历已完成，开始针对特定岗位类别批量投递
-- 同时在投多类岗位（如既投产品经理类，又投市场营销类），需要维护不同版本
-- 基础简历语言偏中性，需要针对特定行业（如医药、消费品、工业B2B）调整语言风格
+- 同时在投多类岗位（如既投业务伙伴类，又投专业职能类；既投产品类，又投市场类），需要维护不同版本
+- 基础简历语言偏中性，需要针对特定行业（如医药、消费品、制造、互联网）调整语言风格
 
 **解决的核心问题：**
 - 每投一个新JD都从头改简历，效率低且容易出错
@@ -21,7 +25,16 @@
 - 不同行业的HR期待看到不同的关键词密度和叙事重心
 
 **版本管理原则：**
-不建议为每一个JD单独维护一份简历，而是按**岗位大类**维护2-3个版本：
+不建议为每一个JD单独维护一份简历，而是按**岗位大类**维护 2-3 个版本。
+
+**分几个版本，不按职位名称分，按下面三条判据分：**
+1. **价值来源不同 → 分版本**：两个岗位为公司创造价值的方式不同（带来收入 / 降低成本 / 控制风险 / 支撑决策 / 留住客户），Summary 的第一句必然不同，这就是两个版本
+2. **行业语境不同 → 分版本**：职能相同但行业的默认语境词与合规环境不同（同样做市场，医药受监管、快消看终端），整套关键词要换
+3. **只是关键词密度差别 → 不分版本**：同类岗位之间的细微差异交给 Skill 04（jd_analysis）在单份 JD 层面校准，不要为此新开一版
+
+**自检：** 如果你说不出两个版本的 Summary 第一句差在哪，它们就是同一个版本。版本超过 3 个，维护成本会开始吞掉投递效率（见要点6）。
+
+**示例（一位 B2B 产品/市场背景候选人的版本划分，示范颗粒度，不是可套用的版本清单）：**
 
 | 版本类型 | 适用岗位举例 | 核心语言重心 |
 |----------|-------------|-------------|
@@ -53,7 +66,7 @@
 
 扮演一位熟悉多类外企招聘语言体系的**简历版本化顾问**，具备以下能力：
 - 能识别同一段经历在不同语言体系下的最优呈现角度
-- 熟悉外企产品、市场、销售各类岗位的关键词密度和叙事偏好
+- 熟悉外企各类岗位的关键词密度和叙事偏好
 - 能在保持事实准确的前提下，通过语言重心的调整最大化版本与目标岗位的信号匹配度
 - 理解简历与Cover Letter的分工：简历讲事实与成果，Cover Letter讲动机与连接逻辑
 
@@ -70,46 +83,58 @@
 
 ## 分析框架
 
-### 要点1：岗位大类与语言体系的对应关系
+### 要点1：为目标岗位大类建立关键词体系
 
-不同类别的岗位，HR在扫描简历时的关键词触发机制不同。以下是主要岗位类别对应的语言体系：
+不同类别的岗位，HR 扫描简历时的关键词触发机制不同。**不要从下面的示例里挑一个最接近的直接套用**——先用三步为自己的目标类别建一套：
+
+1. **取词**：找 5-8 份该类别的目标 JD，把反复出现的动词与名词抄下来，出现 3 次以上的优先
+2. **归类**：按"这个岗位靠什么为公司创造价值"归成 3-4 组（带来收入 / 降低成本与提效 / 控制风险 / 支撑决策 / 留住客户），每组留 6-8 个高频词
+3. **定叙事主线**：用一句话回答"这类岗位的 HR 想看到一条什么样的完整链条"——这句话决定 bullets 的排序，比关键词本身更重要
+
+**示例（三类岗位的关键词体系与叙事主线，示范这套东西长什么样）：**
 
 **产品/GTM类（Product Manager / Commercialization / GTM Manager）：**
-核心关键词：Go-to-Market Strategy / Product Positioning / NPD / Revenue Growth / Launch Execution / Cross-functional Leadership / Roadmap / Pricing
-需要体现：从市场洞察到上市执行的完整链条，以及每个节点的商业影响
-
-**市场/品类类（Segment Marketing / Category / Brand Manager）：**
-核心关键词：Segment Strategy / VOC / Customer Insights / Portfolio Strategy / Value Proposition / Annual Planning / Market Activation / Sales Enablement
-需要体现：对细分市场的深度理解，以及营销策略对业务增长的驱动作用
+关键词：Go-to-Market Strategy / Product Positioning / NPD / Revenue Growth / Launch Execution / Cross-functional Leadership / Roadmap / Pricing
+叙事主线：从市场洞察到上市执行的完整链条，以及每个节点的商业影响
 
 **客户/销售支持类（Account Manager / Commercial / BD / Sales Enablement）：**
-核心关键词：Account Management / Revenue Contribution / Pipeline / Solution Selling / Relationship Building / Customer Retention / Consultative Selling
-需要体现：与客户的直接价值创造，以及具体的收入/留存/开拓成果
+关键词：Account Management / Revenue Contribution / Pipeline / Solution Selling / Relationship Building / Customer Retention / Consultative Selling
+叙事主线：与客户的直接价值创造，以及具体的收入、留存、开拓成果
 
-**医药/器械行业特定类：**
-核心关键词：Annual Planning / Regulated Environment / Sales Force Enablement / Cross-functional Alignment / Evidence-based Marketing / HCP Engagement / Value Story
-需要体现：在高度规范化环境下的营销执行能力，以及对销售团队的赋能经验
+**运营/交付支撑类（Operations / Supply Chain / Service Delivery）：**
+关键词：Process Standardization / Lead Time / Cost Efficiency / SLA & Service Level / Capacity Planning / Continuous Improvement / Cross-site Coordination
+叙事主线：在约束条件下把交付做稳、做快、做便宜，以及这些改善对业务的量化贡献
 
-**FMCG类：**
-核心关键词：Consumer Insights / Brand Strategy / Category Management / Shopper Marketing / Innovation Pipeline / Market Share
-需要体现：对终端消费者的理解，以及品牌/品类层面的增长贡献；删除B2B/工业相关表述
+**跨行业投递时：职能关键词可以留，行业语境词必须整套换**（做法见 Skill 02 要点2 的"语境词替换"）。同样做市场岗，快消侧重 Consumer Insights / Shopper Marketing / Market Share，医药器械侧重 Regulated Environment / HCP Engagement / Evidence-based Marketing；两套词混用，HR 会直接判断你不熟悉这个行业。
 
 ---
 
 ### 要点2：Summary的版本化改写策略
 
-Summary 是版本间差异最大、影响最显著的部分。同一个人，面向不同岗位类型，Summary 的叙事重心应完全不同：
+Summary 是版本间差异最大、影响最显著的部分。同一个人，面向不同岗位类型，Summary 的叙事重心应完全不同。
+
+**改写规则（四个位置逐个替换，事实一律不动）：**
+1. **身份词**（第一句的职能标签）：换成目标版本的岗位语言
+2. **能力动词**：换成该版本关键词体系（要点1）里的高频动词
+3. **成果类型**：同一组数字换一个业务视角命名——收入 / 效率 / 风险 / 决策质量 / 客户留存
+4. **场景词**：地域、行业、组织复杂度，按目标岗位在意的维度保留或删除
+
+**一律不能动**：数字、年限、晋升次数、真实职责范围。改的是镜头，不是事实。
+
+**自检**：把几个版本的 Summary 并排读，如果第一句的身份词相同，说明版本根本没拆开。
+
+**示例（同一位 B2B 工业产品背景候选人的四个版本，示范改写幅度，不是可套用的版本模板）：**
 
 **基础简历 Summary（中性通用版）：**
 > `[职能类型] professional with [X] years of experience across [地区] markets. Proven track record in [核心职责1] and [核心职责2], driving [成果类型].`
 
 **版本A（GTM/产品类）的 Summary 改写重心：**
 突出"从洞察到落地"的完整产品商业化能力，以及收入/增长贡献：
-> `Product Marketing & Go-To-Market professional with [X] years driving commercialization, product positioning and launch execution across [地区] markets. Proven record of translating consumer and market insights into scalable revenue growth, NPD deployment and cross-functional go-to-market delivery.`
+> `Product Marketing & Go-To-Market professional with [X] years driving commercialization, product positioning and launch execution across [地区] markets. Proven record of translating customer and market insights into scalable revenue growth, NPD deployment and cross-functional go-to-market delivery.`
 
 **版本B（Segment Marketing/品类类）的 Summary 改写重心：**
 突出对细分市场的策略性理解和业务增长驱动：
-> `Product & Segment Marketing professional with [X] years leading portfolio strategy, annual planning and GTM execution for complex B2B solutions. Strong expertise in VOC-driven segmentation, value proposition development and sales enablement. Promoted [N] times, driving new revenue and data-driven marketing decisions across multi-market environments.`
+> `Product & Segment Marketing professional with [X] years leading portfolio strategy, annual planning and GTM execution for complex B2B solutions. Strong expertise in customer-driven segmentation, value proposition development and sales enablement. Promoted [N] times while expanding scope from a single product line to country portfolio ownership.`
 
 **版本C（客户管理/商业类）的 Summary 改写重心：**
 突出客户接触、解决方案交付和收入贡献，弱化内部战略属性：
@@ -134,7 +159,7 @@ Summary 是版本间差异最大、影响最显著的部分。同一个人，面
 | 基础版（中性） | GTM版 | Segment Marketing版 | 客户管理版 |
 |--------------|-------|---------------------|-----------|
 | Managed product portfolio of [N] SKUs | Led GTM execution for [N]-SKU portfolio, driving market activation and revenue | Owned segment marketing strategy for [N]-SKU portfolio, aligning with profitability targets | Delivered client-facing solutions across [N]-SKU portfolio, supporting account retention |
-| Conducted market analysis | Translated market insights into launch roadmap and pricing strategy | Led VOC and competitive assessments to define segment priorities and value propositions | Gathered customer requirements to develop customized commercial solutions |
+| Conducted market analysis | Translated market insights into launch roadmap and pricing strategy | Led customer and competitive assessments to define segment priorities and value propositions | Gathered customer requirements to develop customized commercial solutions |
 | Supported sales team | Built sales toolkits and enablement programs, reducing ramp-up time by [幅度] | Developed value stories and customer-centric positioning to enable consultative selling | Directly supported key account teams, contributing to [成果类型] |
 
 **重要提示——数字一致性原则：**
@@ -277,14 +302,14 @@ DOCX 模版规范与 Skill 02 模块六完全一致（参见 Skill 02 的「DOCX
 
 **输入：**
 ```
-基础简历：已完成（来自resume_builder，基于某跨国工业设备企业5年经历 + 某国内保健品初创企业4个月经历）
+基础简历：已完成（来自 Skill 02，基于某跨国工业设备企业7年产品经历，三段内部晋升）
 目标版本类型：Segment Marketing / 品类市场类
 目标岗位代表性JD：
-- [某跨国乳业原料企业] Regional Marketing Manager — 负责APAC区域产品营销策略、客户细分、VOC洞察、与销售团队协作推动增长
-- [某跨国专业服务企业] Segment Marketing Manager — 负责细分市场年度规划、价值主张开发、销售赋能、GTM执行
+- [某跨国工业技术企业] Segment Marketing Manager — 负责细分市场年度规划、价值主张开发、销售赋能、GTM执行
+- [某跨国材料企业] Regional Marketing Manager — 负责区域产品营销策略、客户细分、客户洞察、与销售团队协作推动增长
 目标公司类型：工业B2B外企，注重细分市场策略和客户洞察
-最想强调的亮点：[你的代表性项目]带来的收入成果；全球销售赋能项目（降低上岗时间[幅度]，达到[采纳率]覆盖）
-需要淡化的标签：纯技术/包装执行属性
+最想强调的亮点：[你的代表性项目]带来的收入成果；销售赋能项目（降低上岗时间[幅度]，达到[采纳率]覆盖）
+需要淡化的标签：纯执行属性
 ```
 
 **输出：**
@@ -299,7 +324,7 @@ DOCX 模版规范与 Skill 02 模块六完全一致（参见 Skill 02 的「DOCX
 1. Summary加强"segment strategy + VOC + sales enablement"信号，减少"product launch + GTM"措辞
 2. 核心经历bullet重新排序，将客户洞察和价值主张相关条目前置
 3. 技能模块标签由"Commercial & GTM"调整为"Segment & Growth Strategy"
-4. 某国内保健品初创企业段落聚焦"health & nutrition行业理解"角度，弱化技术执行描述
+4. 早期管培与产品经理段按时间递减原则压缩，把篇幅让给近三年的细分市场成果
 
 本版本最适合投递：Segment Marketing Manager / Category Manager / Regional Marketing Manager / B2B Marketing Specialist
 
@@ -308,22 +333,22 @@ DOCX 模版规范与 Skill 02 模块六完全一致（参见 Skill 02 的「DOCX
 **【Summary改写】**
 
 改写后（Segment Marketing版）：
-> `Product & Segment Marketing professional with [X] years leading portfolio strategy, annual planning and GTM commercialization across APAC, Global and Greater China markets. Strong expertise in VOC-driven customer insights, value proposition development and sales enablement. Promoted [N] times in a leading industrial multinational, delivering new revenue, improving commercial decision-making and enabling data-driven marketing execution in complex B2B environments.`
+> `Product & Segment Marketing professional with [X] years leading portfolio strategy, annual planning and GTM commercialization across China and regional markets. Strong expertise in customer insights, value proposition development and sales enablement. Promoted [N] times while expanding scope from a single product line to country portfolio ownership, delivering new revenue and enabling data-driven commercial decisions in complex B2B environments.`
 
 改写说明：
-- 加强：`annual planning / VOC-driven / value proposition / sales enablement`（Segment Marketing核心词汇）
+- 加强：`annual planning / customer insights / value proposition / sales enablement`（Segment Marketing核心词汇）
 - 淡化：`NPD deployment / launch execution`（产品上市执行语言，在Segment Marketing岗位中信号偏弱）
 - 保留：收入增长成果（适用所有版本）
 
 ---
 
-**【核心经历版本化改写：大中华区产品组合负责人段】**
+**【核心经历版本化改写：中国区产品组合负责人段】**
 
 原版bullets（基础简历）：
 ```
-• Owned [N]-SKU portfolio, leading end-to-end portfolio strategy from VOC to roadmap and positioning
+• Owned [N]-SKU portfolio, leading end-to-end portfolio strategy from customer insight to roadmap and positioning
 • Led GTM execution including pricing, launch planning and cross-functional deployment
-• Built PowerBI dashboards to achieve 100% sales visibility, improving forecasting accuracy
+• Built PowerBI dashboards consolidating multi-source sales data, improving forecasting accuracy
 • Launched [产品类型], generating [你的代表性成果数字] revenue in Year 1
 • Delivered customized solutions for strategic customers, reducing operating costs by [幅度]
 ```
@@ -331,7 +356,7 @@ DOCX 模版规范与 Skill 02 模块六完全一致（参见 Skill 02 的「DOCX
 改写后（Segment Marketing版）：
 ```
 • Owned segment marketing and portfolio strategy for [N] integrated product lines, defining annual plans
-  based on market trends, VOC insights and competitive assessments
+  based on market trends, customer insights and competitive assessments
 • Developed customer-centric value propositions and solution narratives to enable consultative selling
   and strengthen brand positioning with key accounts
 • Built commercial performance dashboards (PowerBI) to monitor segment and customer KPIs, enabling
@@ -357,7 +382,7 @@ Segment & Growth Strategy:
 Segment Marketing & Annual Planning | Portfolio Strategy & Lifecycle Management | GTM & NPD Execution
 
 Customer & Market Intelligence:
-VOC & Customer Insights | Competitive Analysis | Demand Forecasting | B2B Segment Analysis
+Customer Insights & Voice of Customer | Competitive Analysis | Demand Forecasting | B2B Segment Analysis
 
 Value Creation & Sales Partnership:
 Value Proposition Development | Sales Enablement & Training | Cross-functional Stakeholder Management
@@ -365,19 +390,19 @@ Value Proposition Development | Sales Enablement & Training | Cross-functional S
 Commercial Analytics:
 PowerBI & Performance Dashboards | Forecasting Models | Data-driven Decision Making
 
-Global Collaboration:
-[X] years in Global / Regional Business Unit, partnering with HQ and regional teams to drive
-segment strategy and commercial rollout. Fluent in English; experienced in cross-border alignment.
+Cross-region Collaboration:
+[X] years partnering with regional and HQ teams to drive segment strategy and commercial rollout.
+Fluent in English; experienced in cross-border alignment.
 ```
 
 ---
 
-**【Cover Letter要点（某跨国乳业原料企业 Regional Marketing Manager）】**
+**【Cover Letter要点（某跨国工业技术企业 Segment Marketing Manager）】**
 
 叙事框架（3段）：
-1. **连接段**：在[某跨国工业设备企业]的[X]年里，我从产品组合管理起步，逐步承担大中华区细分市场策略和GTM全责，积累了从客户洞察到商业化落地的完整链条
+1. **连接段**：在[某跨国工业设备企业]的[X]年里，我从产品线管理起步，逐步承担中国区细分市场策略和GTM全责，积累了从客户洞察到商业化落地的完整链条
 2. **价值段**：[你的代表性项目]为我积累了"如何在B2B环境中将技术产品转化为客户解决方案并驱动收入增长"的第一手经验；销售赋能项目则体现了我在区域团队协作和能力建设方面的实际产出
-3. **选择段**：[某跨国乳业原料企业]以营养科学为核心、以客户应用开发为驱动的商业模式，正是我希望在其中深化细分市场营销能力的环境
+3. **选择段**：[某跨国工业技术企业]以细分市场为组织单元、以客户应用开发为驱动的商业模式，正是我希望在其中深化细分市场营销能力的环境
 
 ---
 

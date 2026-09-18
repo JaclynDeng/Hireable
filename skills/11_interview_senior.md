@@ -8,7 +8,7 @@
 >
 > **你需要准备**：高层面试官背景、目标岗位与公司、最担心被挑战的维度
 >
-> **你会获得**：核心信号设计、3 分钟市场洞察表达、P&L 视角表达、高频问题框架、跟进消息——全部中英双语，先中文后英文
+> **你会获得**：核心信号设计、3 分钟市场洞察表达、P&L 视角表达、高频问题框架、跟进消息——默认中文，可选「中文 + 英文」双语
 
 ## 适用场景
 
@@ -34,7 +34,7 @@
 **必填：**
 - 高层面试官的背景（职位/负责领域/已知的关注点）
 - 目标岗位和公司（帮助判断高层最可能关心的「业务优先级」）
-- 面试语言偏好（默认中英双语、先中文后英文；如只需单一语言请注明）
+- 面试语言：`中文` / `中文 + 英文`（留空默认中文；选双语时话术中英各一版、上下对应，说明性文字仍只用中文）
 
 **选填（提供后质量显著提升）：**
 - 已知的面试形式（1 v 1 / Panel / 领导约谈）
@@ -55,8 +55,9 @@
 
 - 必填输入缺失时，先逐项提问收集，不要假设或编造
 - 按输出格式的模块顺序输出，每次只完成当前阶段
-- 分析框架与说明性文字用中文；**所有可直接在面试中使用的表达（核心信号、市场洞察、Segment Ownership、P&L、关键句式、跟进消息）一律输出中英双语，顺序固定为先中文、后英文**
-- 英文版不是中文的逐字直译，而是符合英语高管对话语感的地道表达（观点前置、句子更短、结论落在业务结果上）
+- 分析框架与说明性文字一律用中文；**可直接在面试中使用的表达按使用者选的语言档输出**（`中文` 默认 / `中文 + 英文`），选双语时中文在前、英文在后，上下对应
+- 选「中文 + 英文」时，英文不是中文的逐字直译，而是符合英语高管对话语感的地道表达（观点前置、句子更短、结论落在业务结果上）
+- 最终交付物的文风与排版遵循下方「输出文风」一节：分析框架决定写什么，文风一节决定怎么写
 - 涉及市场数据/薪资区间时，标注来源类型与不确定性，并提醒使用者自行验证
 
 ---
@@ -132,7 +133,7 @@
 | 完整 P&L 所有权 | 「我负责这个 Segment 的 EBIT 目标，我的产品组合决策直接影响 revenue mix 和 margin」 |
 | 产品/定价决策影响 | 「我的 SKU 优化决策使高毛利产品占比提升了 X%」「我参与了定价策略，通过价值导向而非成本加成，提升了 premium 产品的利润空间」 |
 | 项目商业结果导向 | 「这个项目在第一年产生了 €XM 的收入，并在第二年形成了 €YM 的销售管道」 |
-| 业务优先级判断 | 「我从 1XXX+ 存量产线的分析中识别出了最高价值的升级机会，这进入了公司前十大战略规划」 |
+| 业务优先级判断 | 「我从 [X] 条存量设备的生命周期分析中识别出了最高价值的升级机会，这进入了公司年度战略规划」 |
 
 **关键句式：** 不要只说「我做了 X」，要加上「这对业务的影响是……」「我选择优先做这个的原因是，它对 revenue/margin/customer retention 的贡献最高」。
 
@@ -183,53 +184,83 @@
 
 ## 输出格式
 
-根据输入信息，生成以下内容。**每一项表达都要给出中文版和英文版，顺序固定为先中文、后英文。**
+根据输入信息，生成以下内容。**默认只输出中文**；使用者选「中文 + 英文」时，每条表达下方紧跟一版英文（`*中文：*` / `*English:*` 两块上下相邻），说明性文字不翻译。小节标题用面试官会问的问题原话，见「输出文风」一节。
 
 ---
 
-**【高层面试核心信号设计（3句话版本）】**
-> 候选人希望在这轮面试中传达的3个核心信号（每条中英各一句）：
-> 1. [信号1：思维方式/Business Ownership] — 中文：[...] ｜ English: [...]
-> 2. [信号2：市场/行业判断力] — 中文：[...] ｜ English: [...]
-> 3. [信号3：成长潜力与可信赖感] — 中文：[...] ｜ English: [...]
+**【本轮要传达的 3 个核心信号】**
 
-**【市场洞察（3分钟口语版，可直接使用）】**
+（这一块是给使用者看的准备笔记，不是面试中要说出口的话）
 
-*中文：*
+> 1. [信号 1：思维方式 / Business Ownership]
+> 2. [信号 2：市场 / 行业判断力]
+> 3. [信号 3：成长潜力与可信赖感]
+
+---
+
+**1- 你怎么看这个行业接下来两三年的变化？（3 分钟口语版）**
+
 > [完整市场洞察表达]
 
-*English:*
-> [English version]
+**2- 如果这块业务交给你，你打算怎么做？（60 秒版）**
 
-**【Segment Ownership 表达（60秒版）】**
-
-*中文：*
 > [面试语言]
 
-*English:*
-> [English version]
+**3- 你的工作对生意的影响体现在哪里？**
 
-**【P&L 影响意识表达（含具体案例连接）】**
+> [面试语言 + 具体案例连接]
 
-*中文：*
-> [面试语言]
+---
 
-*English:*
-> [English version]
+**【高层面试高频问题应对（5 题快速框架）】**
 
-**【高层面试高频问题应对（5题快速框架）】**
+| 问题 | 核心框架 | 关键句式 |
+|-----|---------|---------|
+| ... | ... | ... |
 
-| 问题 | 核心框架 | 关键句式（中文） | Key line (English) |
-|-----|---------|---------------|--------------------|
-| ... | ... | ... | ... |
+---
 
 **【面试后跟进消息（可直接使用）】**
 
-*中文（LinkedIn / 邮件）：*
-> [文本]
+> [LinkedIn / 邮件文本]
 
-*English (LinkedIn / email):*
-> [text]
+---
+
+## 输出文风
+
+以下规则约束最终交付物「怎么写」，上面的分析框架决定「写什么」。与「输出格式」模板冲突时，以本节为准。
+
+**标题分两层。** 一级章节保留 Skill 编号（如 `一、HR 面试准备（Skill 08）`），让使用者知道这一章要改回哪个文件；二级小节用面试官会问的问题原话，配 `1-` `2-` 这类松散序号，不用「框架一」「模块二」。框架编号不落纸——它是本文件内部的分析结构。每节固定结构：
+
+```
+[问题原话]
+[可选：一句考点提示，最多 1 句，说明对方在这道题上想看什么]
+参考回答：
+[正文]
+```
+
+不写「适用场景」「目的」「加分点」「避免的错误」这类成块的元说明——那些属于本文件，不属于交付物。
+
+**语言：默认输出中文。** 使用者在输入时选 `中文`（默认，留空即中文）或 `中文 + 英文`。选「中文 + 英文」时，每一条可直接说出口的话术中英各给一版、上下对应排列，中文在前、英文在后；英文不是中文的逐字直译，而是按英语面试语感重写（句子更短、动词更实、少用修饰语）。**只有话术需要双语——分析框架、说明性文字、表格里的判断依据一律只用中文，不跟着翻译。** 专业术语在中文版里保留英文原词不翻译：portfolio、lifecycle、stage-gate、go/no-go、decision maker、influence without authority、phase-out、installed base、pipeline、margin。
+
+**句子质感。** 允许长句和多重逗号，口语本来就长，不要为了「清爽」把每句话砍短。保留口语连接词：所以 / 其实 / 但 / 更重要的是 / 我觉得 / 我理解 / 说回来——删掉它们，句子会变得像书面报告。对仗式收尾（「A 不同，B 是一样的」这类句式）全文最多出现 1 次，出现三次面试官就会意识到这是提前写好的句子。每个答案至少出现一次让步或边界，承认一个具体的限度，反而让其余部分更可信。禁止无来源的能力形容词——「高度契合」「structurally identical」「world-class」「我有丰富的跨部门协作经验」一律换成具体事实：哪一条对哪一条、是哪几个职能、卡在哪里、怎么解的。禁止把使用者没说过的话写成引号里的第一人称台词，台词必须来自使用者提供的素材。
+
+**细节密度。** 每个案例至少 3 个专有细节——具体规格或型号、内部流程节点的实际编号、客户的类型而非泛称、某件事当时实际花的时长、试产或验证阶段冒出来的那个具体问题。「跨部门协作」「多个数据源」「大量客户反馈」不算，这些词换任何一个人、任何一个行业都成立。数字嵌在叙述句里，不抽出来单独罗列成标签行。结果的表达优先级：有精确数字用数字 → 有量级感用范围（从半天缩短到十几分钟）→ 都没有用影响（进入年度战略规划 / 获得公司级奖项）；数字必须经得起追问，宁可写量级不可虚构精确值。
+
+**原文保护（append-only）。** 使用者提供了自己写过的原始文本（旧面试稿、项目复盘、周报、述职材料）时：不改写，只修正错别字和明显的语序错误，措辞、句式、叙述顺序一律保留；需要补充的内容放在原文之后的独立小节，标题固定为「XX 视角补充」（如「项目管理视角补充」）；补充小节的写法是引用 JD 原句 → 指出原文里哪一段对应这一句 → 说明方法论层面的同构关系，不写结论性的「高度契合」。使用者自己写的一句粗糙的话，可信度高于 AI 生成的三句漂亮的话。
+
+**交付前自检，任何一条不过就返工：**
+
+- [ ] 一级章节是否保留了 Skill 编号？小节标题是否是面试官会问的问题原话？
+- [ ] 纸面上还有没有 `S:` `T:` `A:` `R:`、「适用题型」「迁移性表达」「框架N」这类标签？
+- [ ] 选「中文 + 英文」时，是否只有话术出双语、说明性文字仍是纯中文？选「中文」时有没有擅自输出英文？
+- [ ] 对仗式收尾是否超过 1 次？
+- [ ] 每个案例是否有至少 3 个专有细节？
+- [ ] 有没有无来源的能力形容词（高度契合 / world-class / structurally identical）？
+- [ ] 每个答案是否有至少一处让步或边界？
+- [ ] 替换测试：把公司名、行业名、产品名全部换掉，还有哪些段落仍然成立？仍然成立的必须重写。
+- [ ] 使用者提供的原文是否被改写过？补充内容是否放在了独立小节里？
+- [ ] 有没有残留的空标题、占位符、未替换的 `[方括号]`？
 
 ---
 
@@ -238,11 +269,11 @@
 ### 输入
 
 ```
-面试官背景：[某跨国包装材料企业] Product Director，负责中国/APAC Segment，有丰富的B2B销售和市场背景
-目标岗位：Market Manager（Segment Owner，覆盖某垂直市场细分）
+面试官背景：[某跨国电力设备企业] Product Director，负责中国区及部分区域 Segment，有丰富的B2B销售和市场背景
+目标岗位：Market Manager（Segment Owner，覆盖储能细分市场）
 候选人最担心被挑战的维度：P&L 经验不足 / 行业迁移（从[原细分领域]转到[相邻细分领域]）
 候选人最想传达的信号：「我是一个可以接住 Segment 的人，不只是执行者」
-面试语言：中英双语（先中文后英文）
+面试语言：中文 + 英文
 ```
 
 ### 输出
@@ -270,7 +301,7 @@
 *中文：*
 > 「我对这个细分市场的判断是：竞争加剧、利润承压，但可持续和高附加值仍然有清晰的机会。
 >
-> 具体来说，有两个趋势很重要：一是本土竞争加剧，很多本土供应商在标准化产品上的价格非常有竞争力，这让中低端市场的利润空间越来越窄；二是高端客户对可持续性和差异化的需求在提升——尤其是品牌客户，他们需要用包装来强化他们自己的品牌故事，这里对技术和解决方案能力有真实的支付意愿。
+> 具体来说，有两个趋势很重要：一是本土竞争加剧，很多本土供应商在标准化产品上的价格非常有竞争力，这让中低端市场的利润空间越来越窄；二是高端客户对可靠性和差异化的需求在提升——尤其是工商业业主和系统集成商，他们真正关心的是安全性、循环寿命和全生命周期的经济性，这里对技术和解决方案能力有真实的支付意愿。
 >
 > 我的判断是，这个市场未来的机会不在于量，而在于切入那些真正重视功能价值、经济价值和品牌价值三层全覆盖的高端客户。那类客户的决策不只看价格，而是看你能不能帮他们解决产品定位和成本效率的双重问题。
 >
@@ -279,7 +310,7 @@
 *English:*
 > "My read on this segment is that competition is intensifying and margins are under pressure — but sustainability and high value-add still hold a clear opportunity.
 >
-> Two trends matter. First, domestic competition has intensified: local suppliers are very price-competitive on standardized products, which keeps squeezing margin in the mid and low end. Second, demand from premium customers for sustainability and differentiation is rising — especially brand customers, who need packaging to reinforce their own brand story. There's real willingness to pay there for technical and solution capability.
+> Two trends matter. First, domestic competition has intensified: local suppliers are very price-competitive on standardized products, which keeps squeezing margin in the mid and low end. Second, demand from premium customers for reliability and differentiation is rising — especially commercial and industrial owners and system integrators, who really care about safety, cycle life and lifetime economics. There's real willingness to pay there for technical and solution capability.
 >
 > So my view is that the opportunity in this market isn't volume. It's getting into the premium accounts that genuinely value all three layers — functional value, economic value and brand value. Those customers don't decide on price alone; they decide on whether you can solve both their positioning problem and their cost-efficiency problem.
 >
@@ -310,18 +341,18 @@
 *中文：*
 > 「我没有完整的独立 P&L 所有权，但我的产品和市场决策始终是在考虑业务影响的前提下做的。
 >
-> 举个例子：在[某跨国工业设备企业]，我主导了一个全球首发的新产品系统在中国市场的商业化落地，第一年实现了约 €XM 收入，第二年形成了 €YM 的销售管道。这个决策的背后，是我在市场机会评估、定价策略、GTM 资源分配上做了系统性的取舍判断。
+> 举个例子：在[某跨国工业设备企业]，我主导了一条区域定制产品线在中国区的首发落地，第一年实现了约 €XM 收入，第二年形成了 €YM 的销售管道。这个决策的背后，是我在市场机会评估、定价策略、GTM 资源分配上做了系统性的取舍判断。
 >
-> 另一个例子是产品组合优化：我分析了超过 1XXX 条存量产线的生命周期，识别出哪些平台值得优先推进升级——判断依据是客户侧的业务价值和公司侧的 revenue + margin 贡献。这进入了公司的前十大战略规划。
+> 另一个例子是产品组合优化：我分析了 [X] 条存量设备的生命周期，识别出哪些平台值得优先推进升级——判断依据是客户侧的业务价值和公司侧的 revenue + margin 贡献。这进入了公司的年度战略规划。
 >
 > 所以我的 P&L 视角不是来自拥有独立 P&L，而是来自每一个产品和市场决策都需要我明确『为什么是这个而不是那个』——最终结果的业务意义是什么。」
 
 *English:*
 > "I haven't held a standalone P&L, but my product and marketing decisions have always been made against their business impact.
 >
-> One example: at [a multinational industrial equipment company] I led the China commercialization of a globally first-of-its-kind product system. It delivered around €XM in first-year revenue and built a €YM pipeline in the second year. Behind that were systematic trade-off calls I made on market opportunity assessment, pricing strategy and GTM resource allocation.
+> One example: at [a multinational industrial equipment company] I led the China launch of a region-specific product line. It delivered around €XM in first-year revenue and built a €YM pipeline in the second year. Behind that were systematic trade-off calls I made on market opportunity assessment, pricing strategy and GTM resource allocation.
 >
-> A second example is portfolio optimization. I analyzed the lifecycle of over 1,XXX installed lines to identify which platforms deserved priority for upgrade — judged on business value to the customer and revenue plus margin contribution to us. That work entered the company's top-ten strategic plan.
+> A second example is portfolio optimization. I analyzed the lifecycle of [X] installed units to identify which platforms deserved priority for upgrade — judged on business value to the customer and revenue plus margin contribution to us. That work entered the company's annual strategic plan.
 >
 > So my P&L perspective doesn't come from owning one. It comes from the fact that every product and market decision required me to be explicit about why this and not that — and what the business consequence of the outcome actually was."
 
@@ -329,13 +360,20 @@
 
 **【高层面试高频问题（5题快速框架）】**
 
-| 问题 | 核心框架 | 关键句式（中文） | Key line (English) |
-|-----|---------|---------------|--------------------|
-| 你如何制定细分市场策略？ | Market→Segment→Target→Value→Execution | 「我会从识别价值密度最高的细分开始，而不是从产品参数开始」| "I start from where the value is most concentrated, not from product specs" |
-| 如何影响没有汇报关系的销售团队？ | 理解顾虑→翻译产品语言为客户语言→帮他们赢单 | 「我的核心工作是给 Sales 可以用的工具，而不是要求他们执行我的策略」| "My job is to give sales something they can use, not to ask them to execute my strategy" |
-| 行业迁移的逻辑是什么？ | 迁移点：客户决策逻辑+价值主张构建+B2B商业化 | 「同类B2B市场的核心商业逻辑是高度迁移的——客户如何决策、价值主张如何构建、如何推动跨部门落地」| "The core commercial logic transfers across comparable B2B markets — how customers decide, how you build a value proposition, how you drive it cross-functionally" |
-| 你如何做 pricing？ | 价值导向+竞争环境+客户支付意愿+利润影响 | 「不是成本加成，而是：这个应用场景里的客户，为什么愿意为这个价格付费」| "Not cost-plus. The question is why a customer in this application is willing to pay this price" |
-| 5年后你在哪里？ | 在 [这个行业/方向] 持续深耕，承担更完整的 Segment 或业务责任 | 「我希望在 B2B 市场营销和细分市场经营这个方向上持续深耕，成长为能对 Segment P&L 全面负责的人」| "I want to keep building depth in B2B marketing and running segments, and grow into someone who can own a segment P&L outright" |
+| 问题 | 核心框架 | 关键句式 |
+|-----|---------|---------|
+| 你如何制定细分市场策略？ | Market→Segment→Target→Value→Execution | 「我会从识别价值密度最高的细分开始，而不是从产品参数开始」 |
+| 如何影响没有汇报关系的销售团队？ | 理解顾虑→翻译产品语言为客户语言→帮他们赢单 | 「我的核心工作是给 Sales 可以用的工具，而不是要求他们执行我的策略」 |
+| 行业迁移的逻辑是什么？ | 迁移点：客户决策逻辑+价值主张构建+B2B商业化 | 「同类B2B市场的核心商业逻辑是高度迁移的——客户如何决策、价值主张如何构建、如何推动跨部门落地」 |
+| 你如何做 pricing？ | 价值导向+竞争环境+客户支付意愿+利润影响 | 「不是成本加成，而是：这个应用场景里的客户，为什么愿意为这个价格付费」 |
+| 5年后你在哪里？ | 在 [这个行业/方向] 持续深耕，承担更完整的 Segment 或业务责任 | 「我希望在 B2B 市场营销和细分市场经营这个方向上持续深耕，成长为能对 Segment P&L 全面负责的人」 |
+
+*English key lines（顺序与上表一致）：*
+> 1. "I start from where the value is most concentrated, not from product specs."
+> 2. "My job is to give sales something they can use, not to ask them to execute my strategy."
+> 3. "The core commercial logic transfers across comparable B2B markets — how customers decide, how you build a value proposition, how you drive it cross-functionally."
+> 4. "Not cost-plus. The question is why a customer in this application is willing to pay this price."
+> 5. "I want to keep building depth in B2B marketing and running segments, and grow into someone who can own a segment P&L outright."
 
 ---
 
@@ -354,7 +392,7 @@
 ```
 高层面试官背景（职位/负责领域/已知关注点）：
 目标岗位 + 公司：
-面试语言（默认中英双语输出；如只需单一语言请注明）：
+面试语言（中文 / 中文 + 英文，留空默认中文）：
 面试形式（1v1 / Panel / 领导约谈，选填）：
 最担心被挑战的维度（选填）：
 最想传达的核心信号（选填）：

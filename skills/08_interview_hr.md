@@ -8,7 +8,7 @@
 >
 > **你需要准备**：目标岗位与公司、当前工作情况、需要解释的特殊情况
 >
-> **你会获得**：3 分钟/1 分钟自我介绍、分场景离职原因话术、动机与职业规划表达、3 个反问——全部中英双语，先中文后英文
+> **你会获得**：3 分钟/1 分钟自我介绍、分场景离职原因话术、动机与职业规划表达、3 个反问——默认中文，可选「中文 + 英文」双语
 
 ## 适用场景
 
@@ -47,7 +47,7 @@
 - 目标公司的业务模式（帮助定制「为什么这家公司」的回答）
 - 候选人核心卖点（3条以内）
 - 已有简历版本的摘要
-- 面试语言偏好（默认中英双语、先中文后英文；如只需单一语言请注明）
+- 面试语言：`中文` / `中文 + 英文`（留空默认中文；选双语时话术中英各一版、上下对应，说明性文字仍只用中文）
 
 ---
 
@@ -63,8 +63,9 @@
 
 - 必填输入缺失时，先逐项提问收集，不要假设或编造
 - 按输出格式的模块顺序输出，每次只完成当前阶段
-- 分析框架与说明性文字用中文；**所有可直接在面试中使用的话术（自我介绍、离职原因、动机、职业规划、反问）一律输出中英双语，顺序固定为先中文、后英文**
-- 英文版不是中文的逐字直译，而是符合英语面试语感的地道表达（句子更短、动词更实、少用修饰语）
+- 分析框架与说明性文字一律用中文；**可直接在面试中使用的话术按使用者选的语言档输出**（`中文` 默认 / `中文 + 英文`），选双语时中文在前、英文在后，上下对应
+- 选「中文 + 英文」时，英文不是中文的逐字直译，而是符合英语面试语感的地道表达（句子更短、动词更实、少用修饰语）
+- 最终交付物的文风与排版遵循下方「输出文风」一节：分析框架决定写什么，文风一节决定怎么写
 - 涉及市场数据/薪资区间时，标注来源类型与不确定性，并提醒使用者自行验证
 
 ---
@@ -211,9 +212,9 @@
 加分点：展示结果导向，暗示你关注贡献而非流程
 
 **问题2（贴合 B2B/业务驱动型公司）：**
-> 中文：「这个岗位在实际工作中，与销售/技术/运营团队的协作方式是怎样的？公司对市场/产品角色在业务增长中的期待主要体现在哪些方面？」
+> 中文：「这个岗位在实际工作中，与销售/技术/运营团队的协作方式是怎样的？公司对这个职能在业务增长中的期待主要体现在哪些方面？」
 >
-> English: "In practice, how does this role work with the sales, technical and operations teams? And where does the company expect marketing or product roles to contribute most to growth?"
+> English: "In practice, how does this role work with the sales, technical and operations teams? And where does the company expect this function to contribute most to growth?"
 
 加分点：说明你已理解岗位在业务链中的位置
 
@@ -238,58 +239,84 @@
 
 ## 输出格式
 
-根据输入信息，生成以下内容。**每一项话术都要给出中文版和英文版，顺序固定为先中文、后英文。**
+根据输入信息，生成以下内容。**默认只输出中文**；使用者选「中文 + 英文」时，每条话术下方紧跟一版英文（`*中文：*` / `*English:*` 两块上下相邻），说明性文字不翻译。小节标题用面试官会问的问题原话，见「输出文风」一节。
 
 ---
 
-**【自我介绍（3分钟版）】**
+**1- 自我介绍（3 分钟版）**
 
-*中文：*
 > [完整的自我介绍文本]
 
-*English:*
-> [English version]
+**2- 自我介绍（1 分钟版 / 电话筛选用）**
 
-**【精简版（1分钟/电话筛选用）】**
-
-*中文：*
 > [精简版文本]
 
-*English:*
-> [English version]
+**3- 你为什么离开上一家公司？**
 
-**【离职原因（按场景）】**
-
-当前/最近一段离职原因：
-> 中文：[话术] ｜ English: [script]
+当前 / 最近一段：
+> [话术]
 
 短暂经历解释（如适用）：
-> 中文：[话术] ｜ English: [script]
+> [话术]
 
-GAP期解释（如适用）：
-> 中文：[话术] ｜ English: [script]
+GAP 期解释（如适用）：
+> [话术]
 
-**【为什么选择这个公司/岗位】**
+**4- 你为什么选择我们公司 / 这个岗位？**
 
-*中文：*
-> [3-4句话]
+> [3-4 句话]
 
-*English:*
-> [English version]
+**5- 你的职业规划是什么？**
 
-**【职业规划（短/中/长期）】**
+| 阶段 | 表达 |
+|---|---|
+| 短期（0-12 个月） | [1-2 句话] |
+| 中期（2-3 年） | [1-2 句话] |
+| 长期（3-5 年） | [1-2 句话] |
 
-| 阶段 | 中文 | English |
-|-----|------|---------|
-| 短期（0-12个月）| [1-2句话] | [1-2 sentences] |
-| 中期（2-3年）| [1-2句话] | [1-2 sentences] |
-| 长期（3-5年）| [1-2句话] | [1-2 sentences] |
+**6- 你有什么想问我的吗？**
 
-**【向HR反问的3个问题（可直接使用）】**
+1. [问题 1]
+2. [问题 2]
+3. [问题 3]
 
-1. 中文：[问题1] ｜ English: [question 1]
-2. 中文：[问题2] ｜ English: [question 2]
-3. 中文：[问题3] ｜ English: [question 3]
+---
+
+## 输出文风
+
+以下规则约束最终交付物「怎么写」，上面的分析框架决定「写什么」。与「输出格式」模板冲突时，以本节为准。
+
+**标题分两层。** 一级章节保留 Skill 编号（如 `一、HR 面试准备（Skill 08）`），让使用者知道这一章要改回哪个文件；二级小节用面试官会问的问题原话，配 `1-` `2-` 这类松散序号，不用「框架一」「模块二」。框架编号不落纸——它是本文件内部的分析结构。每节固定结构：
+
+```
+[问题原话]
+[可选：一句考点提示，最多 1 句，说明对方在这道题上想看什么]
+参考回答：
+[正文]
+```
+
+不写「适用场景」「目的」「加分点」「避免的错误」这类成块的元说明——那些属于本文件，不属于交付物。
+
+**语言：默认输出中文。** 使用者在输入时选 `中文`（默认，留空即中文）或 `中文 + 英文`。选「中文 + 英文」时，每一条可直接说出口的话术中英各给一版、上下对应排列，中文在前、英文在后；英文不是中文的逐字直译，而是按英语面试语感重写（句子更短、动词更实、少用修饰语）。**只有话术需要双语——分析框架、说明性文字、表格里的判断依据一律只用中文，不跟着翻译。** 专业术语在中文版里保留英文原词不翻译：portfolio、lifecycle、stage-gate、go/no-go、decision maker、influence without authority、phase-out、installed base、pipeline、margin。
+
+**句子质感。** 允许长句和多重逗号，口语本来就长，不要为了「清爽」把每句话砍短。保留口语连接词：所以 / 其实 / 但 / 更重要的是 / 我觉得 / 我理解 / 说回来——删掉它们，句子会变得像书面报告。对仗式收尾（「A 不同，B 是一样的」这类句式）全文最多出现 1 次，出现三次面试官就会意识到这是提前写好的句子。每个答案至少出现一次让步或边界，承认一个具体的限度，反而让其余部分更可信。禁止无来源的能力形容词——「高度契合」「structurally identical」「world-class」「我有丰富的跨部门协作经验」一律换成具体事实：哪一条对哪一条、是哪几个职能、卡在哪里、怎么解的。禁止把使用者没说过的话写成引号里的第一人称台词，台词必须来自使用者提供的素材。
+
+**细节密度。** 每个案例至少 3 个专有细节——具体规格或型号、内部流程节点的实际编号、客户的类型而非泛称、某件事当时实际花的时长、试产或验证阶段冒出来的那个具体问题。「跨部门协作」「多个数据源」「大量客户反馈」不算，这些词换任何一个人、任何一个行业都成立。数字嵌在叙述句里，不抽出来单独罗列成标签行。结果的表达优先级：有精确数字用数字 → 有量级感用范围（从半天缩短到十几分钟）→ 都没有用影响（进入年度战略规划 / 获得公司级奖项）；数字必须经得起追问，宁可写量级不可虚构精确值。
+
+**原文保护（append-only）。** 使用者提供了自己写过的原始文本（旧面试稿、项目复盘、周报、述职材料）时：不改写，只修正错别字和明显的语序错误，措辞、句式、叙述顺序一律保留；需要补充的内容放在原文之后的独立小节，标题固定为「XX 视角补充」（如「项目管理视角补充」）；补充小节的写法是引用 JD 原句 → 指出原文里哪一段对应这一句 → 说明方法论层面的同构关系，不写结论性的「高度契合」。使用者自己写的一句粗糙的话，可信度高于 AI 生成的三句漂亮的话。
+
+**交付前自检，任何一条不过就返工：**
+
+- [ ] 一级章节是否保留了 Skill 编号？小节标题是否是面试官会问的问题原话？
+- [ ] 纸面上还有没有 `S:` `T:` `A:` `R:`、「适用题型」「迁移性表达」「框架N」这类标签？
+- [ ] 选「中文 + 英文」时，是否只有话术出双语、说明性文字仍是纯中文？选「中文」时有没有擅自输出英文？
+- [ ] 对仗式收尾是否超过 1 次？
+- [ ] 每个案例是否有至少 3 个专有细节？
+- [ ] 有没有无来源的能力形容词（高度契合 / world-class / structurally identical）？
+- [ ] 每个答案是否有至少一处让步或边界？
+- [ ] 替换测试：把公司名、行业名、产品名全部换掉，还有哪些段落仍然成立？仍然成立的必须重写。
+- [ ] 使用者提供的原文是否被改写过？补充内容是否放在了独立小节里？
+- [ ] 有没有残留的空标题、占位符、未替换的 `[方括号]`？
 
 ---
 
@@ -298,92 +325,96 @@ GAP期解释（如适用）：
 ### 输入
 
 ```
-目标岗位：Regional Marketing Manager – Adult Nutrition
-目标公司：[某跨国乳业原料企业]（B2B蛋白原料，服务膳食补充剂和功能食品品牌）
-候选人背景：在[某跨国工业设备企业]工作5年，负责产品组合管理和GTM执行；
-            之后有约6个月GAP期；
-            目前在[某国内保健品初创企业]短暂任职（约3个月）
-特殊情况：GAP期 + 短暂任职，需要解释
-面试语言：中英双语（先中文后英文）
-候选人卖点：B2B产品管理经验 / APAC跨市场经验 / 已有营养健康行业初步接触
+目标岗位：Segment Marketing Manager — Energy Storage
+目标公司：[某跨国电力设备企业]（B2B储能系统，服务系统集成商与工商业客户）
+候选人背景：在[某跨国工业设备企业]工作7年，从产品专员到中国区产品组合负责人，
+            负责产品组合管理和GTM执行；之后有约4个月GAP期
+特殊情况：GAP 期需要解释；跨行业转入储能
+面试语言：中文 + 英文
+候选人卖点：B2B产品管理经验 / 中国区跨职能协作 / 已完成储能行业系统研究
 ```
 
 ### 输出
 
 ---
 
-**【自我介绍（3分钟版）】**
+**1- 自我介绍（3 分钟版）**
 
 *中文：*
-> 我有5年的 B2B 工业外企产品管理经验，在[某跨国工业设备企业]从亚太区轮岗成长到负责全球产品线，再到主导中国市场的产品组合管理，从产品策略制定、GTM执行到销售赋能都有直接经历。
+> 我有 7 年 B2B 工业外企的产品管理经验，在[某跨国工业设备企业]从产品专员做到中国区产品组合负责人，职责范围从单一产品线扩展到整个中国区组合，从产品策略制定、GTM 执行到销售赋能都有直接经历。
 >
-> 过去这段时间，我主动做了职业方向的调整与探索，也在[某国内保健品企业]获得了营养健康行业的直接接触。现在我非常确认自己想往营养健康+B2B策略型市场的方向深耕，而[某跨国乳业原料企业]这个岗位正好处于 B2B marketing、产品商业化和成人营养行业的交叉点，是我认为背景最吻合、最有动力全力投入的方向。
+> 过去几个月我主动留出时间做了职业方向梳理，系统研究了储能行业——从产业链结构、核心流程到主要玩家的商业模式。现在我很确认自己想往储能这个方向深耕，而这个岗位正好处在 B2B 细分市场策略和产品商业化的交叉点上，是我认为背景最吻合、也最有动力全力投入的方向。
 
 *English:*
-> "I have five years of B2B product management experience in multinational industrial companies. At [a multinational industrial equipment company] I moved from an APAC rotational role to owning a global product line, and then to leading product portfolio management for China — covering product strategy, GTM execution and sales enablement end to end.
+> "I have seven years of B2B product management experience in a multinational industrial company, where I moved from product specialist to leading the China product portfolio — expanding from a single product line to the full country portfolio, covering product strategy, GTM execution and sales enablement end to end.
 >
-> Over the past period I deliberately took time to redirect my career, and I also gained hands-on exposure to the nutrition and health industry at [a domestic supplement company]. I'm now clear about where I want to build depth: nutrition and health, on the strategy-led B2B marketing side. This role sits exactly at the intersection of B2B marketing, product commercialization and adult nutrition — which is why it's the best fit for my background and the direction I'm most motivated to commit to."
+> Over the past few months I deliberately took time to map out my direction and did a systematic study of the energy storage industry — the value chain, the core processes and how the main players make money. I'm now clear that this is where I want to build depth, and this role sits exactly at the intersection of B2B segment strategy and product commercialization — which is why it's the best fit for my background and the direction I'm most motivated to commit to."
 
-**【精简版（1分钟/电话筛选用）】**
-
-*中文：*
-> 「我有5年 B2B 工业外企的产品与市场经验，覆盖亚太、全球和中国区岗位。在一段主动的职业方向调整之后，我已经很确认自己的方向——想在营养健康行业深耕，聚焦 B2B 商业化和细分市场策略。这个岗位正好落在这个交叉点上，所以我非常有动力。」
-
-*English:*
-> "I have five years of product and marketing experience in B2B industrial environments, covering APAC, global and China roles. After a deliberate career transition period, I've confirmed my direction — I want to grow in nutrition health, with a focus on B2B commercialization and segment strategy. This role at this company sits exactly at that intersection, which is why I'm genuinely excited about it."
-
-**【离职原因（按场景）】**
-
-**从[某跨国工业设备企业]离职：**
+**2- 自我介绍（1 分钟版 / 电话筛选用）**
 
 *中文：*
-> 「在那里积累了完整的产品组合管理和GTM经验，但公司所在行业进入成熟期，营销在业务增长中的角色相对有限。我希望进入一个成长性更高、市场营销更直接影响业务结果的行业，所以主动做了方向调整。」
+> 我有 7 年 B2B 工业外企的产品与市场经验，在中国区从单一产品线做到整个产品组合。在一段主动的方向梳理之后，我已经很确认自己想进入储能行业，聚焦 B2B 商业化和细分市场策略。这个岗位正好落在这个交叉点上，所以我非常有动力。
 
 *English:*
-> "That role gave me a complete foundation in product portfolio management and GTM execution. But the industry has reached a mature stage, and marketing's role in driving growth there is relatively limited. I wanted to move into an industry with stronger growth, where marketing has a more direct impact on business results — so I made that shift proactively."
+> "I have seven years of product and marketing experience in B2B industrial environments, growing from a single product line to owning the China portfolio. After taking deliberate time to clarify my direction, I'm confident I want to move into energy storage, focusing on B2B commercialization and segment strategy. This role sits exactly at that intersection, which is why I'm genuinely excited about it."
 
-**GAP期（6个月）解释：**
+**3- 你为什么离开上一家公司？**
+
+从[某跨国工业设备企业]离职：
 
 *中文：*
-> 「这段gap是我主动留出来做职业方向梳理的时间。我想在没想清楚的情况下就进入下一份工作，反而会绕更大的弯。这段时间我做了三件事：系统梳理自己的职业方向，研究营养健康和消费升级相关行业，并调整好进入新阶段的状态。市场环境比预期更谨慎，实际用了约6个月，但这段时间让我非常确认了想往营养健康+B2B策略方向发展的定位。」
+> 在那里积累了完整的产品组合管理和 GTM 经验，但公司所在的细分行业已进入成熟期，增长主要靠存量优化，产品和市场职能在业务增长中的发挥空间相对有限。我希望进入一个成长性更高、产品决策更直接影响业务结果的行业，所以主动做了方向调整。
 
 *English:*
-> "That gap was a deliberate decision to take time and get clear on my direction. Moving into another role before I was clear would have cost me more time in the long run. I used the period for three things: mapping out my career direction, researching the nutrition, health and consumer-upgrade space, and getting ready for the next stage. The market was more cautious than I'd expected, so it took about six months — but I came out of it very clear that I want to build my career in nutrition and health, on the B2B strategy side."
+> "That role gave me a complete foundation in product portfolio management and GTM execution. But the segment has reached a mature stage — growth comes mostly from optimizing the existing base, and product and marketing have relatively limited room to move the business. I wanted to move into an industry with stronger growth, where product decisions have a more direct impact on results, so I made that shift proactively."
 
-**从[某国内保健品企业]短暂任职解释：**
+GAP 期（4 个月）：
 
 *中文：*
-> 「加入这家公司是因为想直接接触营养健康行业，了解国内消费品市场的运作方式。入职后发现岗位实际重心与入职描述有差距——更偏采购和供应链操作，和我希望的产品策略和商业化方向不完全一致。这段时间让我快速了解了国内保健品行业的商业逻辑，也让我更清楚自己应该找什么类型的岗位。」
+> 这段时间是我主动留出来做职业方向梳理的。在没想清楚的情况下就进入下一份工作，反而会绕更大的弯。这几个月我做了三件事：系统梳理自己的能力与方向、研究储能行业的产业链与商业模式、并调整好进入新阶段的状态。现在我对方向的判断比离开时清晰得多。
 
 *English:*
-> "I joined that company to get direct exposure to the nutrition and health industry and understand how the domestic consumer market works. Once I started, I found the actual focus of the role differed from the description — it leaned toward sourcing and supply chain operations rather than the product strategy and commercialization work I was looking for. It gave me a fast read on the commercial logic of the domestic supplement industry, and it made much clearer what kind of role I should be targeting."
+> "That gap was a deliberate decision to take time and get clear on my direction — moving into another role before I was clear would have cost me more time in the long run. I used the period for three things: mapping my own strengths and direction, studying the energy storage value chain and its business models, and getting ready for the next stage. I came out of it with a much sharper view than when I left."
 
-**【为什么选择这个公司/岗位】**
+> **说明：** 本例只演示「离职原因」与「GAP 期」两类。短期任职（< 6 个月）的解释逻辑见框架二 B 类，按同样的结构替换即可：说清岗位实际职责与入职描述的差距、这段时间的具体收获、以及由此明确了什么样的下一步。
+
+**4- 你为什么选择我们公司 / 这个岗位？**
 
 *中文：*
-> 「从商业模式上看，这家公司不是卖终端产品，而是扮演品牌客户的蛋白解决方案和应用创新合作伙伴——这意味着 Marketing 的核心工作是构建行业洞察、帮助客户从原料转化为市场竞争力，而不是做广告投放。这和我最感兴趣的方向高度重合：strategy-led B2B marketing。另外，成人营养市场在中国正处于结构性增长阶段，这个岗位进来的时机非常好。」
+> 从商业模式上看，这家公司不是卖单台设备，而是向系统集成商和工商业客户提供储能系统与长期服务——这意味着市场和产品职能的核心工作是把技术能力翻译成客户的经济账，而不是做单点推广。这和我最感兴趣的方向高度重合：strategy-led B2B marketing。另外储能正处在结构性增长阶段，需求由终端用电成本和政策共同驱动，这个岗位进来的时机很好。
 
 *English:*
-> "Looking at the business model, this company doesn't sell a finished product — it acts as a protein solution and application innovation partner to brand customers. That means marketing here is about building industry insight and helping customers turn an ingredient into market competitiveness, not running campaigns. That's exactly where my interest sits: strategy-led B2B marketing. On top of that, adult nutrition in China is in a phase of structural growth, so the timing for this role is very good."
+> "Looking at the business model, this company doesn't just sell a box — it provides storage systems and long-term service to integrators and commercial customers. That means product and marketing here are about translating technical capability into the customer's economics, not running point promotions. That's exactly where my interest sits: strategy-led B2B marketing. On top of that, energy storage is in a phase of structural growth driven by both electricity economics and policy, so the timing for this role is very good."
 
-**【职业规划（短/中/长期）】**
+**5- 你的职业规划是什么？**
 
-| 阶段 | 中文 | English |
-|-----|------|---------|
-| 短期（0-12个月）| 快速熟悉公司产品线、重点客户和中国成人营养市场的关键机会，优先在本地化推广支持和客户商业化工具上产生贡献 | Get up to speed on the portfolio, key accounts and the main opportunities in China's adult nutrition market, and contribute first through localized promotional support and commercialization tools for customers |
-| 中期（2-3年）| 成为对中国成人营养市场有扎实判断、能独立推动重点品类或新客户商业化的 Marketing 负责人 | Become the marketing owner with a solid, independent read on China's adult nutrition market — able to drive a priority category or new-customer commercialization on my own |
-| 长期（3-5年）| 在营养健康行业持续深耕，承担更大的区域业务责任，成长为能主导 Marketing & Commercial Strategy 的 regional lead | Keep building depth in nutrition and health, take on broader regional business responsibility, and grow into a regional lead who owns marketing and commercial strategy |
+*中文：*
 
-**【向HR反问的3个问题（可直接使用）】**
+| 阶段 | 表达 |
+|---|---|
+| 短期（0-12 个月） | 快速熟悉公司产品线、重点客户和中国储能市场的关键机会，优先在细分市场策略与客户商业化工具上产生贡献 |
+| 中期（2-3 年） | 成为对中国储能市场有扎实判断、能独立推动重点细分市场或新客户商业化的负责人 |
+| 长期（3-5 年） | 在新能源行业持续深耕，承担更大的区域业务责任，成长为能主导细分市场与商业化策略的 regional lead |
 
-1. 中文：「如果我加入，这个岗位在前 6 到 12 个月的成功标准是什么？公司通常怎么衡量？」
-   English: "If I were to join, what would success look like in the first 6 to 12 months for this role — and how is that typically measured?"
+*English:*
 
-2. 中文：「这个岗位在实际工作中，通常怎么和中国区商务团队、区域团队以及全球产品团队协作？Marketing 在哪些业务决策上影响力最大？」
-   English: "How does this role typically interact with the China commercial team, the regional team, and the global product team? And where does Marketing have the most influence on business decisions?"
+| Horizon | Statement |
+|---|---|
+| Short term (0-12 months) | Get up to speed on the portfolio, key accounts and the main opportunities in China's storage market, and contribute first through segment strategy and commercialization tools for customers |
+| Mid term (2-3 years) | Become the owner with a solid, independent read on China's storage market — able to drive a priority segment or new-customer commercialization on my own |
+| Long term (3-5 years) | Keep building depth in clean energy, take on broader regional business responsibility, and grow into a regional lead who owns segment and commercial strategy |
 
-3. 中文：「从您的观察来看，什么样的背景或工作风格的人在这个岗位上表现特别好？新人通常需要一些时间适应的挑战有哪些？」
-   English: "From your perspective, what kind of background or working style tends to do especially well in this role? Are there any challenges that incoming people typically need some time to adapt to?"
+**6- 你有什么想问我的吗？**
+
+*中文：*
+> 1. 如果我加入，这个岗位在前 6 到 12 个月的成功标准是什么？公司通常怎么衡量？
+> 2. 这个岗位在实际工作中，通常怎么和中国区商务团队、区域团队以及全球产品团队协作？这个职能在哪些业务决策上影响力最大？
+> 3. 从您的观察来看，什么样的背景或工作风格的人在这个岗位上表现特别好？新人通常需要一些时间适应的挑战有哪些？
+
+*English:*
+> 1. "If I were to join, what would success look like in the first 6 to 12 months for this role — and how is that typically measured?"
+> 2. "How does this role typically interact with the China commercial team, the regional team, and the global product team? And where does this function have the most influence on business decisions?"
+> 3. "From your perspective, what kind of background or working style tends to do especially well in this role? Are there any challenges that incoming people typically need some time to adapt to?"
 
 ---
 
@@ -395,6 +426,6 @@ GAP期解释（如适用）：
 需要解释的特殊情况（GAP期/短暂任职/多次跳槽，如无填"无"）：
 目标公司的业务模式（选填）：
 候选人核心卖点（3条以内，选填）：
-面试语言（默认中英双语输出；如只需单一语言请注明）：
+面试语言（中文 / 中文 + 英文，留空默认中文）：
 ```
 
